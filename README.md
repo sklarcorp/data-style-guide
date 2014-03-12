@@ -75,6 +75,7 @@ Field Specific Rules & Guidelines
 * "Millimeters" should be reflected as a lowercase abbreviation (e.g. "mm")
 * May be indicated in inches for larger tips
 * "Inches" should be reflected with the inches symbol (")
+* No ending zero after whole numbers (e.g. "2mm" not "2.0mm")
 
 
 ### Tip End Style (B) ###
