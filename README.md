@@ -26,6 +26,9 @@ Field Specific Rules & Guidelines
 ### Product ###
 * Indicates specific type of instrument (e.g. Scissors, Forceps)
 * Anatomical details can be in this field (e.g. Antrum Trocar, Thoracic Trocar, Ear Curette) 
+* "Forceps" not "Forcep" 
+* "Speculum" = one, "Specula" is used for sets only
+* "Needle Holder" --> Two words, no "s" on "Holder"
 
 
 
