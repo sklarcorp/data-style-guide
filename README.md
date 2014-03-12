@@ -70,7 +70,11 @@ Field Specific Rules & Guidelines
 
 
 ### Tip Dimensions ###
-* 
+* Generally measurement of the tip of the instrument
+* Most commonly indicated in millimeters
+* "Millimeters" should be reflected as a lowercase abbreviation (e.g. "mm")
+* May be indicated in inches for larger tips
+* "Inches" should be reflected with the inches symbol (")
 
 
 ### Tip End Style (B) ###
