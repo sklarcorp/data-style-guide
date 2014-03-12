@@ -14,3 +14,120 @@ General Rules & Guidelines
 
 Field Specific Rules & Guidelines
 ---------------------------------
+
+### Family Name ###
+* 
+
+
+### Product ###
+* 
+
+
+### Length ###
+* 
+
+
+### Inches (Decimal) ###
+* 
+
+
+### Curvature ###
+* 
+
+
+### Working Surface Style ###
+* 
+
+
+### Tip End Style ###
+* 
+
+
+### Tip Dimensions ###
+* 
+
+
+### Tip End Style (B) ###
+* 
+
+
+### Tip Dimensions (B) ###
+* 
+
+
+### Size / Model ###
+* 
+
+
+### Pattern ###
+* 
+
+
+### Handle ###
+* 
+
+
+### Grade ###
+* 
+
+
+### Brand ###
+* 
+
+
+### Material ###
+* 
+
+
+### Color ###
+* 
+
+
+### Sterile? ###
+* 
+
+
+### Disposable? ###
+* 
+
+
+### Latex? ###
+* 
+
+
+### UOM ###
+* 
+
+
+### UOM Factor ###
+* 
+
+
+### Additional Description ###
+* 
+
+
+### Instrument Type ###
+* 
+
+
+### Family Name ###
+* 
+
+
+### Family Name ###
+* 
+
+
+### Family Name ###
+* 
+
+
+### Family Name ###
+* 
+
+
+### Family Name ###
+* 
+
+
