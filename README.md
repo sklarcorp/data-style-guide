@@ -84,7 +84,9 @@ Field Specific Rules & Guidelines
 
 
 ### Sterile? ###
-* 
+* Acceptable values: Sterile, Non-Sterile
+* Note the hyphen in Non-Sterile
+* Assume that Sterile products are also Disposable
 
 
 ### Disposable? ###
