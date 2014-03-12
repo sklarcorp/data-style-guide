@@ -19,7 +19,7 @@ Field Specific Rules & Guidelines
 * Generally the name of the doctor or surgeon who created the instrument
 * If more than one name is associated with the instrument, names should be hyphenated with no spaces (e.g. Lichtwitz-Bier)
 * Instrument adjectives such as "Alligator" and "Mosquito" should go in the Family Name field, not Product
-* "Alligator" etc. should follow the primary family name with a forward slash separating names (e.g. Hartmann/Alligator forceps; Packer/Mosquito forceps)
+* "Alligator" etc. should follow the primary family name with a forward slash separating names with a space before and after the forward slash (e.g. Hartmann / Alligator; Packer / Mosquito)
 
 
 
