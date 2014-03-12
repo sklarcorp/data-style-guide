@@ -51,7 +51,9 @@ Field Specific Rules & Guidelines
 
 
 ### Working Surface Style ###
-* 
+* Most Commonly: Smooth or Serrated
+* May also be Cross-Serrated, Horizontally Serrated, Vertically Serrated, Partially Serrated
+* Fenestrated will be indicated here
 
 
 ### Tip End Style ###
