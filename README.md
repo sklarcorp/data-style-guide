@@ -19,7 +19,7 @@ Field Specific Rules & Guidelines
 * Generally the name of the doctor or surgeon who created the instrument
 * If more than one name is associated with the instrument, names should be hyphenated with no spaces (e.g. Lichtwitz-Bier)
 * Instrument adjectives such as "Alligator" and "Mosquito" should go in the Family Name field, not Product
-* "Alligator" etc. should follow the primary family name with a forward slash separating names (e.g. Hartmann / Alligator; Packer / Mosquito)
+* "Alligator" etc. should follow the primary family name with a forward slash separating names (e.g. Hartmann/Alligator forceps; Packer/Mosquito forceps)
 
 
 
@@ -30,7 +30,12 @@ Field Specific Rules & Guidelines
 
 
 ### Length ###
-* 
+* Generally the overall length of the instrument
+* Generally identified in inches
+* Measurements should be followed by the inches symbol (") (e.g. 6")
+* Measurements requiring fractions should have a space between the whole number and the fraction (e.g. 6 1/2" not 61/2")
+* No ending zero after whole numbers (e.g. 6" not 6.0")
+
 
 
 ### Inches (Decimal) ###
