@@ -39,6 +39,9 @@ Field Specific Rules & Guidelines
 
 
 ### Inches (Decimal) ###
+* Generally the overall length of the instrument indentified in inches in decimal format
+* No ending zero after whole numbers (e.g. 6" not 6.0")
+* Leading zero for measurments less than 1 (e.g. 0.2 not .2)
 * 
 
 
