@@ -24,7 +24,9 @@ Field Specific Rules & Guidelines
 
 
 ### Product ###
-* 
+* Indicates specific type of instrument (e.g. Scissors, Forceps)
+* Anatomical details can be in this field (e.g. Antrum Trocar, Thoracic Trocar, Ear Curette) 
+
 
 
 ### Length ###
