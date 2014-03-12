@@ -45,7 +45,9 @@ Field Specific Rules & Guidelines
 
 
 ### Curvature ###
-* 
+* Generally: Straight, Curved, Angled, Slightly Curved, Strongly Curved, Double / "S" Curve
+* Specific angle may also be indicated (e.g. Angled 90 Degrees or Angled Right)
+* If indicated, spell out the word "Degrees"
 
 
 ### Working Surface Style ###
