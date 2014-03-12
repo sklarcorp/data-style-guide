@@ -30,8 +30,7 @@ Field Specific Rules & Guidelines
 
 
 ### Length ###
-* Generally the overall length of the instrument
-* Generally identified in inches
+* Generally the overall length of the instrument identified in inches in whole numbers and fractions
 * Measurements should be followed by the inches symbol (") (e.g. 6")
 * Measurements requiring fractions should have a space between the whole number and the fraction (e.g. 6 1/2" not 61/2")
 * No ending zero after whole numbers (e.g. 6" not 6.0")
