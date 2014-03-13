@@ -102,7 +102,9 @@ Field Specific Rules & Guidelines
 
 
 ### Size / Model ###
-* 
+* Instruments with sizes not reflected in inches, millimeters are indicated here
+* Most commonly whole numbers (e.g. Size 1, Size 2)
+* Adjectives such as small, medium, large, extra small, long etc. may be indicated here
 
 
 ### Pattern ###
