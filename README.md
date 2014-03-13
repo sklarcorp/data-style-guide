@@ -158,7 +158,16 @@ Field Specific Rules & Guidelines
 
 
 ### Color ###
-* 
+* Generally reflects the color of the instrument based on the material from which the instrument is made
+* Most Commonly: 
+*   Gray = Stainless Steel
+*   Silver = Silver
+*   Silver = Chrome
+*   Gold = Gold coating on handles
+*   Black = Sklar Black™ coating
+*   Blue = Sklar Blue™ coating
+*   Various colors (lime green, purple, red) on finger rings of scissor handles
+*   Various colors (black, red, blue, green) for stethoscope tubing
 
 
 ### Sterile? ###
