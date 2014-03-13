@@ -105,8 +105,8 @@ Field Specific Rules & Guidelines
 * Instruments with sizes not reflected in inches, millimeters are indicated here
 * Most commonly whole numbers (e.g. Size 1, Size 2)
 * Adjectives such as small, medium, large, extra small, long etc. may be indicated here
-* French measurements are reflected here (e.g. "17FR"
-* *NOTE* 1 FR = 1/3 millimeter
+* French measurements are reflected here (e.g. "17FR")
+* *_NOTE_* 1 FR = 1/3 millimeter
 
 
 ### Pattern ###
