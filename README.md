@@ -139,8 +139,18 @@ Field Specific Rules & Guidelines
 
 
 ### Brand ###
+* Generally describes the brand of a Premium Grade instrument
+* Sklar brands are as follows:
+*   Sklarlite™
+*   Sklarlite™ XD
+*   Sklar Blue™
+*   Sklar Black™
+*   Sklarhone™
+*   Sklarcut™
+*   Sklar Edge™
+*   Sklargrip™
+* The "Trademark" symbol (capital T capital M) should be utilized as in the examples above
 * 
-
 
 ### Material ###
 * 
