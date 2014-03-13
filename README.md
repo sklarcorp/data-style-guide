@@ -108,7 +108,9 @@ Field Specific Rules & Guidelines
 
 
 ### Pattern ###
-* 
+* Acceptable Values: Delicate, Heavy, Atraumatic, Extra Light, Extra Light and Extra Delicate
+* If an instrument has an "improved" version of the original, indicate "Improved" here
+* "Narrow Jaws" is indicated here
 
 
 ### Handle ###
