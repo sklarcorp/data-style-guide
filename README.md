@@ -117,7 +117,7 @@ Field Specific Rules & Guidelines
 
 ### Handle ###
 * Generally describes the type of handle for the instrument 
-* Most Commonly: Finger Ring, Thumb, Bayonet / Offset Thumb, Cross-Action Thumb, Plier
+* Most Commonly: Finger Ring, Thumb, Bayonet / Offset Thumb, Cross-Action Thumb, Plier, Dual Action Plier
 * May also indicate descriptors such as Round, Octagonal, Flat, Smooth, Knurled, with Serrations, with Grooves
 
 
