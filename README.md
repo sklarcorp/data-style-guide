@@ -153,7 +153,8 @@ Field Specific Rules & Guidelines
 * 
 
 ### Material ###
-* 
+* Generally the primary material from which the instrument is made
+* Most Commonly: Stainless Steel, Plastic, Aluminum, Silver, Tungsten Carbide
 
 
 ### Color ###
