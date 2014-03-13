@@ -106,12 +106,16 @@ Field Specific Rules & Guidelines
 * Most commonly whole numbers (e.g. Size 1, Size 2)
 * Adjectives such as small, medium, large, extra small, long etc. may be indicated here
 * French measurements are reflected here (e.g. "17FR")
-* *_NOTE_* 1 FR = 1/3 millimeter
+* *NOTE* 1 FR = 1/3 millimeter
 
 
 ### Pattern ###
 * Acceptable Values: Delicate, Heavy, Atraumatic, Extra Light, Extra Light and Extra Delicate
-* If an instrument has an "improved" version of the original, indicate "Improved" here
+* If the pattern is "Extra Light" then "SklarLite" should be indicated in the "Brand" field
+* The "Trademark" symbol (capital T capital M) should follow SklarLite (e.g. "SklarLite™)
+* If the pattern is "Extra Light and Extra Delicate" then "SklarLite XD" should be in the "Brand" field
+* The "Trademark" symbol (capital T capital M) should follow SklarLite here as well (e.g. "SklarLite™ XD)
+* If an instrument has an "improved" version of the original instrument, indicate "Improved" here
 * "Narrow Jaws" is indicated here
 
 
