@@ -141,14 +141,44 @@ Field Specific Rules & Guidelines
 ### Brand ###
 * Generally describes the brand of a Premium Grade instrument
 * Sklar brands are as follows:
-*   Sklarlite™
-*   Sklarlite™ XD
-*   Sklar Blue™
-*   Sklar Black™
-*   Sklarhone™
-*   Sklarcut™
-*   Sklar Edge™
-*   Sklargrip™
+  * Instruments
+    * Sklarlite™
+      * Extra Light 
+    * Sklarlite™ XD
+      * Extra Light and Extra Delicate 
+    * Sklar Blue™
+      * Electrosurgical
+    * Sklar Black™ Laser
+      * Reduced Reflectivity
+    * Sklarhone™
+      * Knifelike Razor Edge
+    * Sklarcut™
+      * Micro-Serrated
+    * Sklar Edge™
+      * TC Scissors
+    * Sklargrip™
+      * TC Needle Holders
+    * SklarSafe™
+      * Safety Scalpels
+    * SklarSpec™
+      * Disposable Vaginal Specula
+    * Sklar Tru-Punch™
+      * Single-Use Biopsy Punch
+  * Care and Cleaning
+    * Sklar Instru-Guard Lube™
+      * Lubricant and Rust-Inhibitor
+    * Sklar-Cide™
+      * High Level Disinfecting and Sterilizing Solution
+    * Sklar-Sheen™
+      * Instrument Cleaner and Conditioner
+    * Sklar Soak™
+      * Liquid Disinfectant
+    * Sklar Spray-Zyme™
+      * Instrument Pre-Cleaner with Multi-Enzymatic Foam
+    * Sklar-Stat™ 
+      * Foaming Hand Sanitizer
+    * SklarLite™
+      * Sterlization Container System
 * The "Trademark" symbol ™ should be utilized as in the examples above
 * 
 
