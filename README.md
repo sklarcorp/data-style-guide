@@ -144,7 +144,7 @@ Field Specific Rules & Guidelines
 * Sklar brands are as follows:
   * Instruments
     - **Sklarlite™** _Extra Light_ 
-    - **Sklarlite™ XD** _Extra Light and Extra Delicate_
+    - **Sklarlite XD™** _Extra Light and Extra Delicate_
     - **Sklar Blue™** _Electrosurgical_
     - **Sklar Black™ Laser** _Reduced Reflectivity_
     - **Sklarhone™** _Knifelike Razor Edge_
