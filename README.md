@@ -277,11 +277,15 @@ Field Specific Rules & Guidelines
 
 
 ### Diameter ###
-* 
-
+* Measurement applicable to specific instruments for which Diameter is a differentiating characteristic (e.g. 
+* Most commonly indicated in millimeters
+* "Millimeters" should be reflected as a lowercase abbreviation (e.g. "mm")
+* May be indicated in inches for larger instruments
+* "Inches" should be reflected with the inches symbol (")
+* No ending zero after whole numbers (e.g. "2mm" not "2.0mm")
 
 ### Volume ###
-* Measurement applicable to specific instruments for which volume is a differentiating characteristic (e.g. Medicine Cup, Pitcher, Bowl, Basin, Syringe, Care & Cleaning Products, Solutions)
+* Measurement applicable to specific instruments for which Volume is a differentiating characteristic (e.g. Medicine Cup, Pitcher, Bowl, Basin, Syringe, Care & Cleaning Products, Solutions)
 
 
 ### Action ###
