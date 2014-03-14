@@ -281,7 +281,7 @@ Field Specific Rules & Guidelines
 
 
 ### Volume ###
-* 
+* Measurement applicable to specific instruments for which volume is a differentiating characteristic (e.g. Medicine Cup, Pitcher, Bowl, Basin, Syringe, Care & Cleaning Products, Solutions)
 
 
 ### Action ###
