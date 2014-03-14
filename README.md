@@ -273,7 +273,11 @@ Field Specific Rules & Guidelines
 
 
 ### Height / Depth ###
-* 
+* Measurement applicable to specific instruments for which Height or Depth is a differentiating characteristic (e.g. Surgical Trays, Sterilization Trays, Aorta Clamps)
+* May be indicated in inches or millimeters
+* "Millimeters" should be reflected as a lowercase abbreviation (e.g. "mm")
+* "Inches" should be reflected with the inches symbol (")
+* No ending zero after whole numbers (e.g. "2mm" not "2.0mm")
 
 
 ### Diameter ###
