@@ -150,7 +150,7 @@ Field Specific Rules & Guidelines
     - **Sklarhone™** _Knifelike Razor Edge_
     - **Sklarcut™** _Micro-Serrated_
     - **Sklar Edge™** _TC Scissors_
-    -   _Dual Gold Finger Rings_
+    -      _Dual Gold Finger Rings_
     - **Sklargrip™** _TC Needle Holders_
     - **SklarSafe™** _Safety Scalpels_
     - **SklarSpec™** _Disposable Vaginal Specula_
