@@ -261,7 +261,7 @@ Field Specific Rules & Guidelines
 
 
 ### Additional Description ###
-* 
+* Generally details about an instrument that do not apply to any other established fields
 
 
 ### Instrument Type ###
