@@ -17,7 +17,7 @@ Field Specific Rules & Guidelines
 
 ### Family Name ###
 * Generally the name of the doctor or surgeon who created the instrument
-* If more than one name is associated with the instrument, names should be hyphenated with no spaces (e.g. Lichtwitz-Bier)
+* If more than one name is associated with the instcrument, names should be hyphenated with no spaces (e.g. Lichtwitz-Bier)
 * Instrument adjectives such as "Alligator" and "Mosquito" should go in the Family Name field, not Product
 * "Alligator" etc. should follow the primary family name with a forward slash separating names with a space before and after the forward slash (e.g. Hartmann / Alligator; Packer / Mosquito)
 
@@ -111,9 +111,9 @@ Field Specific Rules & Guidelines
 ### Pattern ###
 * Acceptable Values: Delicate, Heavy, Atraumatic, Extra Light, Extra Light and Extra Delicate
 * If the pattern is "Extra Light" then "SklarLite" should be indicated in the "Brand" field
-* The "Trademark" symbol (capital T capital M) should follow Sklarlite (e.g. "Sklarlite™)
+* The "Trademark" symbol ™ should follow Sklarlite (e.g. "Sklarlite™)
 * If the pattern is "Extra Light and Extra Delicate" then "Sklarlite XD" should be in the "Brand" field
-* The "Trademark" symbol (capital T capital M) should follow Sklarlite here as well (e.g. "Sklarlite™ XD)
+* The "Trademark" symbol ™ should follow Sklarlite here as well (e.g. "Sklarlite™ XD)
 * "Sklarlite" is treated as one word (e.g. "Sklarlite" not "Sklar Lite" or "SklarLite")
 * If an instrument has an "improved" version of the original instrument, indicate "Improved" here
 * "Narrow Jaws" is indicated here
@@ -133,8 +133,8 @@ Field Specific Rules & Guidelines
 * Merit = Physician (Office) Grade
 * Econo = Floor Grade
 * Econo Sterile = Sterile Floor Grade
-* The "Registered Trademark" symbol (circled capital R) should follow "Sklar" (e.g. Sklar®)
-* The "Trademark" symbol (capital T capital M) should follow Surgi OR, Merit and the word Econo 
+* The "Registered Trademark" symbol ® should follow "Sklar" (e.g. Sklar®)
+* The "Trademark" symbol ® should follow Surgi OR, Merit and the word Econo 
 * (Merit™, Econo ™, Econo™ Sterile) 
 
 
@@ -149,7 +149,7 @@ Field Specific Rules & Guidelines
 *   Sklarcut™
 *   Sklar Edge™
 *   Sklargrip™
-* The "Trademark" symbol (capital T capital M) should be utilized as in the examples above
+* The "Trademark" symbol ™ should be utilized as in the examples above
 * 
 
 ### Material ###
