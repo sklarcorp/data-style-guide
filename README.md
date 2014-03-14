@@ -196,7 +196,9 @@ Field Specific Rules & Guidelines
 
 
 ### Latex? ###
-* 
+* Acceptable values: Latex or Latex-Free
+* Must be a hyphen in "Latex-Free"
+* No space before or after hyphen
 
 
 ### UOM ###
