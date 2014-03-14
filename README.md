@@ -154,7 +154,7 @@ Field Specific Rules & Guidelines
     - **SklarSpec™** _Disposable Vaginal Specula_
     - **Sklar Tru-Punch™** _Single-Use Biopsy Punch_
   * Care and Cleaning
-    - **Sklar Instru-Guard Lube™* _Lubricant and Rust-Inhibitor_
+    - **Sklar Instru-Guard Lube™** _Lubricant and Rust-Inhibitor_
     - **Sklar-Cide™** _High Level Disinfecting and Sterilizing Solution_
     - **Sklar-Sheen™** _Instrument Cleaner and Conditioner_
     - **Sklar Soak™** _Liquid Disinfectant_
