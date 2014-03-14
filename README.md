@@ -154,6 +154,7 @@ Field Specific Rules & Guidelines
     - **SklarSafe™** _Safety Scalpels_
     - **SklarSpec™** _Disposable Vaginal Specula_
     - **Sklar Tru-Punch™** _Single-Use Biopsy Punch_
+    - **Sklar Litegrip™** _Fenestrated Handles_
   * Care and Cleaning
     - **Sklar Instru-Guard Lube™** _Lubricant and Rust-Inhibitor_
     - **Sklar-Cide™** _High Level Disinfecting and Sterilizing Solution_
