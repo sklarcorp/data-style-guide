@@ -269,7 +269,7 @@ Field Specific Rules & Guidelines
 
 
 ### Width ###
-* Generally a measurement of specific instruments for which width is a differentiating characteristic (e.g. Traction Bows, Surgical Trays, Baskets, Retractors)
+* Generally a measurement of specific instruments for which width is a differentiating characteristic (e.g. Traction Bows, Surgical Trays, Sterilization Trays, Baskets, Retractors)
 
 
 ### Height / Depth ###
@@ -281,7 +281,7 @@ Field Specific Rules & Guidelines
 
 
 ### Diameter ###
-* Measurement applicable to specific instruments for which Diameter is a differentiating characteristic (e.g. 
+* Measurement applicable to specific instruments for which Diameter is a differentiating characteristic (e.g. Wire, Wire in Mesh Baskets, Cleaning Brushes, Opthalmic Instruments etc.)
 * Most commonly indicated in millimeters
 * "Millimeters" should be reflected as a lowercase abbreviation (e.g. "mm")
 * May be indicated in inches for larger instruments
