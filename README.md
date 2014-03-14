@@ -142,43 +142,25 @@ Field Specific Rules & Guidelines
 * Generally describes the brand of a Premium Grade instrument
 * Sklar brands are as follows:
   * Instruments
-    * Sklarlite™
-      * Extra Light 
-    * Sklarlite™ XD
-      * Extra Light and Extra Delicate 
-    * Sklar Blue™
-      * Electrosurgical
-    * Sklar Black™ Laser
-      * Reduced Reflectivity
-    * Sklarhone™
-      * Knifelike Razor Edge
-    * Sklarcut™
-      * Micro-Serrated
-    * Sklar Edge™
-      * TC Scissors
-    * Sklargrip™
-      * TC Needle Holders
-    * SklarSafe™
-      * Safety Scalpels
-    * SklarSpec™
-      * Disposable Vaginal Specula
-    * Sklar Tru-Punch™
-      * Single-Use Biopsy Punch
+    - **Sklarlite™** _Extra Light_ 
+    - **Sklarlite™ XD** _Extra Light and Extra Delicate_
+    - **Sklar Blue™** _Electrosurgical_
+    - **Sklar Black™ Laser** _Reduced Reflectivity_
+    - **Sklarhone™** _Knifelike Razor Edge_
+    - **Sklarcut™** _Micro-Serrated_
+    - **Sklar Edge™** _TC Scissors_
+    - **Sklargrip™** _TC Needle Holders_
+    - **SklarSafe™** _Safety Scalpels_
+    - **SklarSpec™** _Disposable Vaginal Specula_
+    - **Sklar Tru-Punch™** _Single-Use Biopsy Punch_
   * Care and Cleaning
-    * Sklar Instru-Guard Lube™
-      * Lubricant and Rust-Inhibitor
-    * Sklar-Cide™
-      * High Level Disinfecting and Sterilizing Solution
-    * Sklar-Sheen™
-      * Instrument Cleaner and Conditioner
-    * Sklar Soak™
-      * Liquid Disinfectant
-    * Sklar Spray-Zyme™
-      * Instrument Pre-Cleaner with Multi-Enzymatic Foam
-    * Sklar-Stat™ 
-      * Foaming Hand Sanitizer
-    * SklarLite™
-      * Sterlization Container System
+    - **Sklar Instru-Guard Lube™* _Lubricant and Rust-Inhibitor_
+    - **Sklar-Cide™** _High Level Disinfecting and Sterilizing Solution_
+    - **Sklar-Sheen™** _Instrument Cleaner and Conditioner_
+    - **Sklar Soak™** _Liquid Disinfectant_
+    - **Sklar Spray-Zyme™** _Instrument Pre-Cleaner with Multi-Enzymatic Foam_
+    - **Sklar-Stat™** _Foaming Hand Sanitizer_
+    - **SklarLite™** _Sterlization Container System_
 * The "Trademark" symbol ™ should be utilized as in the examples above
 * 
 
