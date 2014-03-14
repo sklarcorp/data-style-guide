@@ -192,7 +192,7 @@ Field Specific Rules & Guidelines
 
 
 ### Disposable? ###
-* 
+* Acceptable values: Disposable or Reusable
 
 
 ### Latex? ###
