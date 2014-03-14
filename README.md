@@ -269,7 +269,7 @@ Field Specific Rules & Guidelines
 
 
 ### Width ###
-* 
+* Generally a measurement of specific instruments for which width is a differentiating characteristic (e.g. Traction Bows, Surgical Trays, Baskets, Retractors)
 
 
 ### Height / Depth ###
