@@ -209,13 +209,20 @@ Field Specific Rules & Guidelines
   *Each = EA
   *Set = ST
   *Pack = PK
-  *Case = CS
   *Box = BX
+  *Case = CS
 
 
 
 ### UOM Factor ###
-* 
+* Unit of Measure Factor
+* A numerical value that corresponds directly to UOM, most commonly as follows:
+* Each = 1 (e.g. the UOM for a syringe is "Each" and the UOM factor is "1" meaning they are each sold seperately)
+* Set = commonly 2-8 and usually varying styles of one instrument (e.g. the UOM for a Tuning Fork Set is "Set" and the UOM Factor is "5" meaning the Set contains 5 differntly pitched forks)
+* Pack = commonly 12 or 24 and usually of the same instrument (e.g. the UOM for Suture Needles may be "Pack" and the UOM Factor may be "12" meaning the Pack contains 12 identical Suture Needles)
+* Box = commonly higher quantities than in a Pack and usually of the same instrument (e.g. the UOM for Disposable Blades may be "Box" and the UOM Factor may be "100" meaning the Box contains 100 of identical Disposable Blades)
+* Case = commonly highest quantities (e.g. the UOM for a disposable toothbrush may be "Case" and the UOM Factor may be "144" meaning there are 144 disposable toothbrushes in the Case)
+
 
 
 ### Additional Description ###
