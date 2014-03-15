@@ -69,6 +69,7 @@ Field Specific Rules & Guidelines
 
 ### Length ###
 * Generally the overall length of the instrument identified in inches in whole numbers and fractions
+* If the choice between Length and Width appears arbitrary (e.g. a bin of dimensions 2" by 5" and 1" Depth) prefer assigning the longer side as the Length
 * Measurements should be followed by the inches symbol (") (e.g. 6")
 * Measurements requiring fractions should have a space between the whole number and the fraction 
   (e.g. 6 1/2" not 61/2")
