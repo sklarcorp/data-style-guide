@@ -12,7 +12,7 @@ Data Style Guide Overview
 * [Curvature](#curvature)
 * [Working Surface Style](#working-surface-style)
 * [Tip End Style](#tip-end-style)
-* [Tip Dimensions](#tip-dimensions)
+* [Tip Dimensions](#tip-d`imensions)
 * [Tip End Style (B)](#tip-end-style-b)
 * [Tip Dimensions (B)](#tip-dimensions-b)
 * [Size/Model](#size--model)
@@ -185,6 +185,7 @@ Field Specific Rules & Guidelines
     - **Sklar Black™ Laser** _Reduced Reflectivity_
     - **Sklarhone™** _Knifelike Razor Edge_
     - **Sklarcut™** _Micro-Serrated_
+    - **Supercut Sklarhone™** _1 Knifelike Razor Edge and 1 Micro-serrated Edge_
     - **Sklar Edge™** _TC Scissors_
       - _Dual Gold Finger Rings_
     - **Sklargrip™** _TC Needle Holders_
