@@ -202,7 +202,6 @@ Field Specific Rules & Guidelines
     - **Sklar-Stat™** _Foaming Hand Sanitizer_
     - **SklarLite™** _Sterlization Container System_
 * The "Trademark" symbol ™ should be utilized as in the examples above
-* 
 
 ### Material ###
 * Generally the primary material from which the instrument is made
