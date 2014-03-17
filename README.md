@@ -171,7 +171,7 @@ Field Specific Rules & Guidelines
 * Econo = Floor Grade
 * Econo Sterile = Sterile Floor Grade
 * The "Registered Trademark" symbol ® should follow "Sklar" (e.g. Sklar®)
-* The "Trademark" symbol ® should follow Surgi-OR, Merit and the word Econo
+* The "Trademark" symbol ™ should follow Surgi-OR, Merit and the word Econo
   * (Surgi-OR™, Merit™, Merit™ Sterile, Econo™, Econo™ Sterile) 
 
 
