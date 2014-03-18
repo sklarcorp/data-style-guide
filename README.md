@@ -273,7 +273,7 @@ Field Specific Rules & Guidelines
  * Jar = JA
  * Jug = JU
 
-*For Additional UOMs See Also [Product Naming and Grammar Conventions](https://db.tt/W6jqyE2i)
+* For Additional UOMs See Also [Product Naming and Grammar Conventions](https://db.tt/W6jqyE2i)
 
 
 
