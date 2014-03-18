@@ -268,6 +268,12 @@ Field Specific Rules & Guidelines
  * Pack = PK
  * Box = BX
  * Case = CS
+* Also
+ * Bottle = BO
+ * Jar = JA
+ * Jug = JU
+
+*For Additional UOMs See Also [Product Naming and Grammar Conventions](https://db.tt/W6jqyE2i)
 
 
 
