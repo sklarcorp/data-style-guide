@@ -186,14 +186,14 @@ Field Specific Rules & Guidelines
 ### Grade ###
 * Generally describes the grade of the instrument
 * Most Commonly: Sklar, Surgi-OR, Merit, Econo, Econo Sterile
-* Sklar = Premium (OR) Grade
-* Surgi-OR = Mid-Grade
-* Merit = Physician (Office) Grade
-* Econo = Floor Grade
-* Econo Sterile = Sterile Floor Grade
-* The "Registered Trademark" symbol ® should follow "Sklar" (e.g. Sklar®)
-* The "Trademark" symbol ™ should follow Surgi-OR, Merit and the word Econo
-  * (Surgi-OR™, Merit™, Merit™ Sterile, Econo™, Econo™ Sterile) 
+  * Sklar = Premium (OR) Grade
+  * Surgi-OR = Mid-Grade
+  * Merit = Physician (Office) Grade
+  * Econo = Floor Grade
+  * Econo Sterile = Sterile Floor Grade
+  * The "Registered Trademark" symbol ® should follow "Sklar" (e.g. Sklar®)
+  * The "Trademark" symbol ™ should follow Surgi-OR, Merit and the word Econo
+     * (Surgi-OR™, Merit™, Merit™ Sterile, Econo™, Econo™ Sterile) 
 
 
 ### Brand ###
