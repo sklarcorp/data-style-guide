@@ -99,10 +99,10 @@ Field Specific Rules & Guidelines
 ### Tip End Style ###
 * Generally Sharp or Blunt
 * May be combined Sharp/Sharp, Sharp/Blunt, Blunt/Blunt
-* Teeth and/or Prong information will go in this field (e.g. "1X2 Teeth" or "1X2 Prongs")
+* Teeth and/or Prong information will go in this field (e.g. "1x2 Teeth" or "1x2 Prongs")
 * No spaces before or after forward slashes (e.g. "Sharp/Sharp" not "Sharp / Sharp")
-* No spaces before or after "X" when indicating Teeth or Prongs (e.g. "1X2" not "1 X 2")
-* "X" should be a capital X (e.g. "1X2" not "1x2")
+* No spaces before or after "x" when indicating Teeth or Prongs (e.g. "1x2" not "1 x 2")
+* "x" should be lowercase (e.g. "1x2" not "1x2")
 * Adjectives such as Cupped, Spoon, Triangular etc. may be indicated here 
 
 
@@ -120,10 +120,10 @@ Field Specific Rules & Guidelines
 * Follow guidelines for Tip End Style 
 * Generally Sharp or Blunt
 * May be combined Sharp/Sharp, Sharp/Blunt, Blunt/Blunt
-* Teeth and/or Prong information will go in this field (e.g. "1X2 Teeth" or "1X2 Prongs")
+* Teeth and/or Prong information will go in this field (e.g. "1x2 Teeth" or "1x2 Prongs")
 * No spaces before or after forward slashes (e.g. "Sharp/Sharp" not "Sharp / Sharp")
-* No spaces before or after "X" when indicating Teeth or Prongs (e.g. "1X2" not "1 X 2")
-* "X" should be a capital X (e.g. "1X2" not "1x2")
+* No spaces before or after "x" when indicating Teeth or Prongs (e.g. "1x2" not "1 X 2")
+* "x" should be lowercase (e.g. "1x2" not "1X2")
 * Adjectives such as Cupped, Spoon, Triangular etc. may be indicated here 
 
 
