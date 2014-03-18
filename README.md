@@ -203,17 +203,26 @@ Field Specific Rules & Guidelines
     - **Sklarlite™** _Extra Light_ 
     - **Sklarlite XD™** _Extra Light and Extra Delicate_
     - **Sklar Blue™** _Electrosurgical_
+      - _Single Blue Tip_, as in [91-5252 Sklar Blue Emmett Hook #2](http://www.sklarcorp.com/sklar-blue-emmett-hook-2.html)
+      - _Dual Blue Tips_, as in [91-5450 Sklar Blue Schroeder Tenaculum](http://www.sklarcorp.com/sklar-blue-schroeder-tenaculum.html)
+      - _Blue Blades_, as in [91-5047 Sklar Blue Pederson Vaginal Speculum](http://www.sklarcorp.com/sklar-blue-pederson-vaginal-speculum-3456.html)
     - **Sklar Black™ Laser** _Reduced Reflectivity_
+      - _Dual Gold Finger Rings_, as in [90-2330 Sklar Black Laser Heaney Needle Holder](http://www.sklarcorp.com/sklar-black-laser-heaney-needle-holder.html)
     - **Sklarhone™** _Knifelike Razor Edge_
+      - _Dual Black Finger Rings_, as in [15-3315 Sklarhone Metzenbaum Scissors]( http://www.sklarcorp.com/sklarhone-metzenbaum-scissors-7942.html)
     - **Sklarcut™** _Micro-Serrated_
+      - _Single Gold Finger Ring_, as in [15-3590  Sklarcut Iris Scissors](http://www.sklarcorp.com/sklarcut-iris-scissors-7693.html)
     - **Supercut Sklarhone™** _1 Knifelike Razor Edge and 1 Micro-serrated Edge_
+      - _Dual Black Finger Rings_, as in [15-7032 Sklarhone Jameson Scissors Supercut](http://www.sklarcorp.com/sklarhone-jameson-scissors.html)
     - **Sklar Edge™** _TC Scissors_
-      - _Dual Gold Finger Rings_
+      - _Dual Gold Finger Rings_, as in [16-1915 Sklar Edge TC Metzenbaum Scissors](http://www.sklarcorp.com/catalogsearch/result/?q=sklaredge+scissors&order=teir_level&dir=asc)
     - **Sklargrip™** _TC Needle Holders_
+      - _Dual Gold Finger Rings_, as in [21-2070  Sklargrip Mayo-Hegar Needle Holder](http://www.sklarcorp.com/sklargrip-mayo-hegar-needle-holder-5119.html)
     - **SklarSafe™** _Safety Scalpels_
     - **SklarSpec™** _Disposable Vaginal Specula_
     - **Sklar Tru-Punch™** _Single-Use Biopsy Punch_
-    - **Sklar Litegrip™** _Fenestrated Handles_
+    - **Sklar LiteGrip™** _Fenestrated Handles_
+      - as in, [66-4034 Sklar LiteGrip Bishop-Harmon Forceps](http://www.sklarcorp.com/sklar-litegrip-fenestrated-handle-bishop-harmon-forceps.html)
   * Care and Cleaning
     - **Sklar Instru-Guard Lube™** _Lubricant and Rust-Inhibitor_
     - **Sklar-Cide™** _High Level Disinfecting and Sterilizing Solution_
