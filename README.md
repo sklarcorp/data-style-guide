@@ -234,7 +234,7 @@ Field Specific Rules & Guidelines
 * Most Commonly: 
 *   Gray = Stainless Steel
 *   Silver = Silver
-*   Silver = Chrome
+*   Chrome = Chrome
 *   Gold = Gold coating on handles
 *   Black = Sklar Black™ coating
 *   Blue = Sklar Blue™ coating
