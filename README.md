@@ -36,6 +36,7 @@ Data Style Guide Overview
 * [Action](#action)
 
 
+
 General Rules & Guidelines
 --------------------------
 
@@ -160,7 +161,27 @@ Field Specific Rules & Guidelines
 * Generally describes the type of handle for the instrument 
 * Most Commonly: Finger Ring, Thumb, Bayonet / Offset Thumb, Cross-Action Thumb, Plier, Dual Action Plier
 * May also indicate descriptors such as Round, Octagonal, Flat, Smooth, Knurled, with Serrations, with Grooves
-
+* Examples:
+  *  Finger Ring, as in [47-1248  Iris Scissors](http://www.sklarcorp.com/iris-scissors-13806.html)
+  *  Three Finger Ring, as in [80-1910  Rudd Clinic Hemorroid Ligator](http://www.sklarcorp.com/catalogsearch/result/?q=80-1910&order=teir_level&dir=asc)
+  *  Finger Ring with Ratchet, as in [45-6266  Atlantic Grasper](http://www.sklarcorp.com/atlantic-grasper.html)
+  *  Double Action Finger Ring, as in [40-2640 Buck Gramco Tendon Retriever](http://www.sklarcorp.com/catalogsearch/result/?q=40-2640&order=teir_level&dir=asc)
+  *  Thumb, as in [97-736  Merit Dressing Forceps](http://www.sklarcorp.com/merit-dressing-forceps-4533.html)
+  *  Bayonet / Offset Thumb, as in [98-0277  Jacobson Micro Forceps](http://www.sklarcorp.com/jacobson-micro-forceps-4644.html)
+  *  Cross-Action Thumb, as in [24-1450  Wachenfeld Clip Forceps](http://www.sklarcorp.com/wachenfeld-clip-forceps.html)
+  *  Plier, as in [40-1775  Needle Nose Pliers](http://www.sklarcorp.com/needle-nose-pliers.html)
+  *  Plier with Spring, as in [93-492 Roux Syringe](http://www.sklarcorp.com/catalogsearch/result/?q=93-492&order=teir_level&dir=asc)
+  *  Plier with Double Spring and Lock, as in [97-0474  Nail Nipper](http://www.sklarcorp.com/nail-nipper.html)
+  *  Plier with Ratchet, as in [40-2413  Lane Bone Holding Forceps](http://www.sklarcorp.com/catalogsearch/result/?q=40-2413&order=teir_level&dir=asc)
+  *  Loop
+  *  Loop with Grip, as in [62-8000  Aspirating Syringe](http://www.sklarcorp.com/catalogsearch/result/?q=62-8000&order=teir_level&dir=asc)
+  *  Octagonal, as in [34-3624 Thoracic Trocar](http://www.sklarcorp.com/trocars/trocars/thoracic-trocar-4mm.html)
+  *  Knurled, as in 
+  *  T-Style, as in [40-6855  Bone Hook](http://www.sklarcorp.com/bone-hook.html)
+  *  with Horizontal Grooves, as in [49-3360  Williger Raspatory](http://www.sklarcorp.com/williger-raspatory-6-1-4.html) or [11-1298  Commander Utility Shears](http://www.sklarcorp.com/commander-utility-shears.html)
+  *  with Vertical Grooves, as in [40-9070 Kermisson Periosteal Raspatory](http://www.sklarcorp.com/catalogsearch/result/?q=40-9070&order=teir_level&dir=asc)or [40-7445 Chandler Elevator](http://www.sklarcorp.com/orthopedic/elevators/chandler-elevator-6461.html)
+  *  with Angled Grooves, as in 
+  *  with Finger Grips, as in [90-3452  Delee Retractor](http://www.sklarcorp.com/catalogsearch/result/?q=90-3452&order=teir_level&dir=asc)
 
 ### Grade ###
 * Generally describes the grade of the instrument
@@ -242,11 +263,11 @@ Field Specific Rules & Guidelines
 * Indicates grouping method of packing, ordering, or shipping instruments
 * Most Commonly: "Each"  "Set"  "Pack"  "Case"  "Box"
 * Abbreviated by two capital letters as follows:
-  * Each = EA
-  * Set = ST
-  * Pack = PK
-  * Box = BX
-  * Case = CS
+ * Each = EA
+ * Set = ST
+ * Pack = PK
+ * Box = BX
+ * Case = CS
 
 
 
