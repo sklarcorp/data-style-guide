@@ -242,11 +242,11 @@ Field Specific Rules & Guidelines
 * Indicates grouping method of packing, ordering, or shipping instruments
 * Most Commonly: "Each"  "Set"  "Pack"  "Case"  "Box"
 * Abbreviated by two capital letters as follows:
-*   Each = EA
-*   Set = ST
-*   Pack = PK
-*   Box = BX
-*   Case = CS
+  * Each = EA
+  * Set = ST
+  * Pack = PK
+  * Box = BX
+  * Case = CS
 
 
 
