@@ -229,14 +229,16 @@ Field Specific Rules & Guidelines
     - **Sklar Disinfectant™ Wipes** _Ready-To-Use, Premoistened Towelettes_
     - **Sklar Ezymatic™** _Multi-Enzyme Detergent Concentrate_
     - **Sklar Fresh™** _Liquid Spray Odor Absorber_
-    - **Sklar Instru-Guard Lube™** _Lubricant and Rust-Inhibitor_
+    - **Sklar Instru-Guard™**  _Lubricant and Rust-Inhibitor_
+      - **Instru-Guard™ Lube** _Lubricant Concentrate_
+      - **Instru-Guard™ One-Step**_Concentrated, Aqueous Alkaline Soultion_
     - **Sklar Kleen™** _for Manual and Ultrasonic Cleaning_
       - **Sklar Kleen™ LF** _Low Foam Formula for Automatic Cleaning_
       - **Sklar Kleen™ Liquid**
       - **Sklar Kleen™ Powder**
     - **Sklar Lube™**
     - **Sklar Lube™ spray**
-    - **Sklar Lugols** _Iodine Contrast Medium_
+    - **Sklar Lugols**_Iodine Contrast Medium_
     - **Sklar Monsels** _Ready-To-Use Hemostatic Paste_
     - **Sklar Polish™**
     - **Sklar-Sheen™** _Instrument Cleaner and Conditioner_
