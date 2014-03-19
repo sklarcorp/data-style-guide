@@ -173,14 +173,13 @@ Field Specific Rules & Guidelines
   *  Plier with Spring, as in [93-492 Roux Syringe](http://www.sklarcorp.com/catalogsearch/result/?q=93-492&order=teir_level&dir=asc)
   *  Plier with Double Spring and Lock, as in [97-0474  Nail Nipper](http://www.sklarcorp.com/nail-nipper.html)
   *  Plier with Ratchet, as in [40-2413  Lane Bone Holding Forceps](http://www.sklarcorp.com/catalogsearch/result/?q=40-2413&order=teir_level&dir=asc)
-  *  Loop
+  *  Loop, as in [10-1356 Cannula Cleaning Brush](http://www.sklarcorp.com/cannula-instrument-cleaning-brush-1419.html)
   *  Loop with Grip, as in [62-8000  Aspirating Syringe](http://www.sklarcorp.com/catalogsearch/result/?q=62-8000&order=teir_level&dir=asc)
   *  Octagonal, as in [34-3624 Thoracic Trocar](http://www.sklarcorp.com/trocars/trocars/thoracic-trocar-4mm.html)
-  *  Knurled, as in 
+  *  Knurled, as in [41-800 Gracey Curette](http://www.sklarcorp.com/gracey-curette.html)
   *  T-Style, as in [40-6855  Bone Hook](http://www.sklarcorp.com/bone-hook.html)
   *  with Horizontal Grooves, as in [49-3360  Williger Raspatory](http://www.sklarcorp.com/williger-raspatory-6-1-4.html) or [11-1298  Commander Utility Shears](http://www.sklarcorp.com/commander-utility-shears.html)
   *  with Vertical Grooves, as in [40-9070 Kermisson Periosteal Raspatory](http://www.sklarcorp.com/catalogsearch/result/?q=40-9070&order=teir_level&dir=asc)or [40-7445 Chandler Elevator](http://www.sklarcorp.com/orthopedic/elevators/chandler-elevator-6461.html)
-  *  with Angled Grooves, as in 
   *  with Finger Grips, as in [90-3452  Delee Retractor](http://www.sklarcorp.com/catalogsearch/result/?q=90-3452&order=teir_level&dir=asc)
 
 ### Grade ###
