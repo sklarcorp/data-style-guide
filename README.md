@@ -223,13 +223,27 @@ Field Specific Rules & Guidelines
     - **Sklar LiteGrip™** _Fenestrated Handles_
       - as in, [66-4034 Sklar LiteGrip™ Bishop-Harmon Forceps](http://www.sklarcorp.com/sklar-litegrip-fenestrated-handle-bishop-harmon-forceps.html)
   * Care and Cleaning
-    - **Sklar Instru-Guard Lube™** _Lubricant and Rust-Inhibitor_
+    - **SklarLite™** _Sterlization Container System_
     - **Sklar-Cide™** _High Level Disinfecting and Sterilizing Solution_
+    - **Sklar Disinfectant™** _Ready-To-Use Spray Surface Disinfectant_
+    - **Sklar Disinfectant™ Wipes** _Ready-To-Use, Premoistened Towelettes_
+    - **Sklar Ezymatic™** _Multi-Enzyme Detergent Concentrate_
+    - **Sklar Fresh™** _Liquid Spray Odor Absorber_
+    - **Sklar Instru-Guard Lube™** _Lubricant and Rust-Inhibitor_
+    - **Sklar Kleen™** _for Manual and Ultrasonic Cleaning_
+      - **Sklar Kleen™ LF** _Low Foam Formula for Automatic Cleaning_
+      - **Sklar Kleen™ Liquid**
+      - **Sklar Kleen™ Powder**
+    - **Sklar Lube™**
+    - **Sklar Lube™ spray**
+    - **Sklar Lugols** _Iodine Contrast Medium_
+    - **Sklar Monsels** _Ready-To-Use Hemostatic Paste_
+    - **Sklar Polish™**
     - **Sklar-Sheen™** _Instrument Cleaner and Conditioner_
     - **Sklar Soak™** _Liquid Disinfectant_
     - **Sklar Spray-Zyme™** _Instrument Pre-Cleaner with Multi-Enzymatic Foam_
     - **Sklar-Stat™** _Foaming Hand Sanitizer_
-    - **SklarLite™** _Sterlization Container System_
+   
 * The "Trademark" symbol ™ should be utilized as in the examples above
 
 ### Material ###
