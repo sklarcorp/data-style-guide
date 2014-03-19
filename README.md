@@ -222,6 +222,7 @@ Field Specific Rules & Guidelines
     - **Sklar Tru-Punch™** _Single-Use Biopsy Punch_
     - **Sklar LiteGrip™** _Fenestrated Handles_
       - as in, [66-4034 Sklar LiteGrip™ Bishop-Harmon Forceps](http://www.sklarcorp.com/sklar-litegrip-fenestrated-handle-bishop-harmon-forceps.html)
+    - **Sklartech 5000™** _Laparoscopic_
   * Care and Cleaning
     - **SklarLite™** _Sterlization Container System_
     - **Sklar-Cide™** _High Level Disinfecting and Sterilizing Solution_
