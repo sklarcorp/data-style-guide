@@ -278,9 +278,9 @@ Field Specific Rules & Guidelines
  * Box = BX
  * Case = CS
 * Also
- * Bottle = BO
- * Jar = JA
- * Jug = JU
+ * Bottle = BO (Think water bottle or spray bottle)
+ * Jar = JR (Think shape of a Mason Jar)
+ * Jug = JU (Think shape of a gallon milk jug)
 
 * For Additional UOMs See Also [Product Naming and Grammar Conventions](https://db.tt/W6jqyE2i)
 
