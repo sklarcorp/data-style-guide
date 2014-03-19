@@ -240,7 +240,7 @@ Field Specific Rules & Guidelines
     - **Sklar Lube Spray**  _Ready-To-Use Polymeric Lubricant_
     - **Sklar Lugols**  _Iodine Contrast Medium_
     - **Sklar Monsels**  _Ready-To-Use Hemostatic Paste_
-    - **Sklar Polish™**
+    - **Sklar Polish™**  _Powdered Stain Remover_
     - **Sklar-Sheen™ Spray**  _Spray Foam Autoclave Cleaner and Conditioner_
     - **Sklar Soak™**  _Liquid Disinfectant_
     - **Sklar Spray-Zyme™**  _Instrument Pre-Cleaner with Multi-Enzymatic Foam_
