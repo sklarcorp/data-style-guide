@@ -224,28 +224,27 @@ Field Specific Rules & Guidelines
       - as in, [66-4034 Sklar LiteGrip™ Bishop-Harmon Forceps](http://www.sklarcorp.com/sklar-litegrip-fenestrated-handle-bishop-harmon-forceps.html)
     - **Sklartech 5000™** _Laparoscopic_
   * Care and Cleaning
-    - **SklarLite™** _Sterlization Container System_
-    - **Sklar-Cide™** _High Level Disinfecting and Sterilizing Solution_
-    - **Sklar Disinfectant™** _Ready-To-Use Spray Surface Disinfectant_
-    - **Sklar Disinfectant™ Wipes** _Ready-To-Use, Premoistened Towelettes_
-    - **Sklar Ezymatic™** _Multi-Enzyme Detergent Concentrate_
-    - **Sklar Fresh™** _Liquid Spray Odor Absorber_
+    - **SklarLite™**  _Sterlization Container System_
+    - **Sklar-Cide™**  _High Level Disinfecting and Sterilizing Solution_
+    - **Sklar Disinfectant™**  _Ready-To-Use Spray Surface Disinfectant_
+    - **Sklar Disinfectant™ Wipes**  _Ready-To-Use, Premoistened Towelettes_
+    - **Sklar Ezymatic™**  _Multi-Enzyme Detergent Concentrate_
+    - **Sklar Fresh™**  _Liquid Spray Odor Absorber_
     - **Sklar Instru-Guard™**  _Lubricant and Rust-Inhibitor_
-      - **Instru-Guard™ Lube** _Lubricant Concentrate_
-      - **Instru-Guard™ One-Step**_Concentrated, Aqueous Alkaline Soultion_
-    - **Sklar Kleen™** _for Manual and Ultrasonic Cleaning_
-      - **Sklar Kleen™ LF** _Low Foam Formula for Automatic Cleaning_
-      - **Sklar Kleen™ Liquid**
-      - **Sklar Kleen™ Powder**
-    - **Sklar Lube™**
-    - **Sklar Lube™ spray**
-    - **Sklar Lugols**_Iodine Contrast Medium_
-    - **Sklar Monsels** _Ready-To-Use Hemostatic Paste_
+      - **Instru-Guard™ Lube**  _Polymeric Lubricant Concentrate_
+      - **Instru-Guard™ One-Step**  _Concentrated, Aqueous Alkaline Soultion_
+    - **Sklar Kleen™**  _for Manual and Ultrasonic Cleaning_
+      - **Sklar Kleen™ Low Foam**  _Automatic Washer Liquid Detergent, Low Foam_
+      - **Sklar Kleen™ Liquid**  _Manual and Ultrasonic Instrument Detergent, Liquid_
+      - **Sklar Kleen™ Powder**  _Manual and Ultrasonic Instrument Detergent, Powder_
+    - **Sklar Lube Spray**  _Ready-To-Use Polymeric Lubricant_
+    - **Sklar Lugols**  _Iodine Contrast Medium_
+    - **Sklar Monsels**  _Ready-To-Use Hemostatic Paste_
     - **Sklar Polish™**
-    - **Sklar-Sheen™** _Instrument Cleaner and Conditioner_
-    - **Sklar Soak™** _Liquid Disinfectant_
-    - **Sklar Spray-Zyme™** _Instrument Pre-Cleaner with Multi-Enzymatic Foam_
-    - **Sklar-Stat™** _Foaming Hand Sanitizer_
+    - **Sklar-Sheen™ Spray**  _Spray Foam Autoclave Cleaner and Conditioner_
+    - **Sklar Soak™**  _Liquid Disinfectant_
+    - **Sklar Spray-Zyme™**  _Instrument Pre-Cleaner with Multi-Enzymatic Foam_
+
    
 * The "Trademark" symbol ™ should be utilized as in the examples above
 
