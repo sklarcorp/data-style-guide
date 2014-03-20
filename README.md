@@ -333,7 +333,7 @@ Field Specific Rules & Guidelines
 
 
 ### Diameter ###
-* Measurement applicable to specific instruments for which Diameter is a differentiating characteristic (e.g. Wire, Wire in Mesh Baskets, Cleaning Brushes, Opthalmic Instruments etc.)
+* Measurement applicable to specific instruments for which Diameter is a differentiating characteristic (e.g. Wire, Wire in Mesh Baskets, Cleaning Brushes, Ophthalmic Instruments etc.)
 * Most commonly indicated in millimeters
 * "Millimeters" should be reflected as a lowercase abbreviation (e.g. "mm")
 * May be indicated in inches for larger instruments
