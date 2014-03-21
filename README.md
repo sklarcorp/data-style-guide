@@ -263,7 +263,7 @@ Field Specific Rules & Guidelines
 ### Material ###
 * Generally the primary material from which the instrument is made
 * Most Commonly: Stainless Steel, Plastic, Aluminum, Silver, Tungsten Carbide
-
+* Also Silicone - **NOTE**  _Silicone_ is a rubber-like synthetic compound, as in  [90-5262 Sklar Silicone Vaginal Dilators]( http://www.sklarcorp.com/sklar-silicone-vaginal-dilators-5265.html) as opposed to _Silicon_ which is a semi-conductive metalloid
 
 ### Color ###
 * Generally reflects the color of the instrument based on the material from which the instrument is made
