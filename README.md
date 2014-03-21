@@ -245,7 +245,8 @@ Field Specific Rules & Guidelines
     - **Sklar Soak™**  _Liquid Disinfectant_
     - **Sklar Spray-Zyme™**  _Instrument Pre-Cleaner with Multi-Enzymatic Foam_
 
-   
+    - **MSDS** for Care and Cleaning Products is available at [MSDS](http://www.sklarcorp.com/msds)
+    
 * The "Trademark" symbol ™ should be utilized as in the examples above
 
 ### Material ###
