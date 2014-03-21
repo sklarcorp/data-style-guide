@@ -149,11 +149,9 @@ Field Specific Rules & Guidelines
 
 ### Pattern ###
 * Acceptable Values: Delicate, Heavy, Atraumatic, Extra Light, Extra Light and Extra Delicate
-* If the pattern is "Extra Light" then "SklarLite" should be indicated in the "Brand" field
-* The "Trademark" symbol ™ should follow Sklarlite (e.g. "Sklarlite™)
-* If the pattern is "Extra Light and Extra Delicate" then "Sklarlite XD" should be in the "Brand" field
-* The "Trademark" symbol ™ should follow Sklarlite here as well (e.g. "Sklarlite™ XD)
-* "Sklarlite" is treated as one word (e.g. "Sklarlite" not "Sklar Lite" or "SklarLite")
+* If the "Brand" is "Sklarlite™" then the pattern is "Extra Light"
+* Instruments may have an "Extra Light" Pattern but not be a "Sklarlite™" product.
+* If the "Brand" is "Sklarlite™ XD" then the pattern is "Extra Light and Extra Delicate"
 * If an instrument has an "improved" version of the original instrument, indicate "Improved" here
 * "Narrow Jaws" is indicated here
 
