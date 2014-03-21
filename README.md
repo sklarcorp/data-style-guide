@@ -185,23 +185,22 @@ Field Specific Rules & Guidelines
 
 ### Grade ###
 * Generally describes the grade of the instrument
-* Most Commonly: Sklar, Surgi-OR, Merit, Econo, Econo Sterile
-  * Sklar = Premium (OR) Grade
-  * Surgi-OR = Mid-Grade
-  * Merit = Physician (Office) Grade
-  * Econo = Floor Grade
-  * Econo Sterile = Sterile Floor Grade  
+* Most Commonly: Sklar®, Surgi-OR™, Merit™, Econo™, Econo™ Sterile
+  * Sklar® = Premium (OR) Grade
+  * Surgi-OR™ = Mid-Grade
+  * Merit™ = Physician (Office) Grade
+  * Econo™ = Floor Grade
+  * Econo™ Sterile = Sterile Floor Grade
 
-  * The "Registered Trademark" symbol ® should follow "Sklar" (e.g. Sklar®)
-     * To enter the "Registered Trademark" symbol: 
-        * Mac: option+r
-        * Windows: alt+0174  
+* The "Registered Trademark" symbol ® should follow "Sklar" (e.g. Sklar®)
+* To enter the "Registered Trademark" symbol:
+    * Mac: option+r
+    * Windows: alt+0174
 
-  * The "Trademark" symbol ™ should follow Surgi-OR, Merit and the word Econo
-     * (Surgi-OR™, Merit™, Merit™ Sterile, Econo™, Econo™ Sterile) 
-     * To enter the "Trademark" symbol:
-        * Mac: option+e
-        * Windows: alt+0153  
+* The "Trademark" symbol ™ should follow Surgi-OR, Merit, and the word Econo (e.g. Surgi-OR™, Merit™, Merit™ Sterile, Econo™ and Econo™ Sterile)
+*   To enter the "Trademark" symbol:
+      * Mac: option+e
+      * Windows: alt+0153
 
 
 ### Brand ###
@@ -252,8 +251,8 @@ Field Specific Rules & Guidelines
     - **Sklar Polish™**  _Powdered Stain Remover_
     - **Sklar-Sheen™ Spray**  _Spray Foam Autoclave Cleaner and Conditioner_
     - **Sklar Soak™**  _Liquid Disinfectant_
-    - **Sklar Spray-Zyme™**  _Instrument Pre-Cleaner with Multi-Enzymatic Foam_
-
+    - **Sklar Spray-Zyme™**  _Instrument Pre-Cleaner with Multi-Enzymatic Foam_  
+      &nbsp;
     - **MSDS** for Care and Cleaning Products is available at [MSDS](http://www.sklarcorp.com/msds)
     
 * The "Trademark" symbol ™ should be utilized as in the examples above
