@@ -190,18 +190,18 @@ Field Specific Rules & Guidelines
   * Surgi-OR = Mid-Grade
   * Merit = Physician (Office) Grade
   * Econo = Floor Grade
-  * Econo Sterile = Sterile Floor Grade
+  * Econo Sterile = Sterile Floor Grade  
 
   * The "Registered Trademark" symbol ® should follow "Sklar" (e.g. Sklar®)
      * To enter the "Registered Trademark" symbol: 
         * Mac: option+r
-        * Windows: alt+0174
+        * Windows: alt+0174  
 
   * The "Trademark" symbol ™ should follow Surgi-OR, Merit and the word Econo
      * (Surgi-OR™, Merit™, Merit™ Sterile, Econo™, Econo™ Sterile) 
      * To enter the "Trademark" symbol:
         * Mac: option+e
-        * Windows: alt+0153
+        * Windows: alt+0153  
 
 
 ### Brand ###
