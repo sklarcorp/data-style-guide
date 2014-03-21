@@ -191,9 +191,17 @@ Field Specific Rules & Guidelines
   * Merit = Physician (Office) Grade
   * Econo = Floor Grade
   * Econo Sterile = Sterile Floor Grade
+
   * The "Registered Trademark" symbol ® should follow "Sklar" (e.g. Sklar®)
+     * To enter the "Registered Trademark" symbol: 
+        * Mac: option+r
+        * Windows: alt+0174
+
   * The "Trademark" symbol ™ should follow Surgi-OR, Merit and the word Econo
      * (Surgi-OR™, Merit™, Merit™ Sterile, Econo™, Econo™ Sterile) 
+     * To enter the "Trademark" symbol:
+        * Mac: option+e
+        * Windows: alt+0153
 
 
 ### Brand ###
@@ -249,6 +257,9 @@ Field Specific Rules & Guidelines
     - **MSDS** for Care and Cleaning Products is available at [MSDS](http://www.sklarcorp.com/msds)
     
 * The "Trademark" symbol ™ should be utilized as in the examples above
+     * To enter the "Trademark" symbol:
+        * Mac: option+e
+        * Windows: alt+0153
 
 ### Material ###
 * Generally the primary material from which the instrument is made
