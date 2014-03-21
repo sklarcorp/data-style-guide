@@ -148,7 +148,7 @@ Field Specific Rules & Guidelines
 
 
 ### Pattern ###
-* Acceptable Values: Delicate, Heavy, Atraumatic, Extra Light, Extra Light and Extra Delicate
+* Acceptable Values: Delicate, Extra Light, Extra Light _and_ Extra Delicate, Atraumatic, Heavy
 * If the "Brand" is "Sklarlite™" then the pattern is "Extra Light"
 * Instruments may have an "Extra Light" Pattern but not be a "Sklarlite™" product.
 * If the "Brand" is "Sklarlite™ XD" then the pattern is "Extra Light and Extra Delicate"
