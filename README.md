@@ -139,11 +139,11 @@ Field Specific Rules & Guidelines
 
 
 ### Size / Model ###
-* Instruments with sizes not reflected in inches, millimeters are indicated here
-* Most commonly whole numbers (e.g. Size 1, Size 2)
-* Adjectives such as small, medium, large, extra small, long etc. may be indicated here
+* Adjectives such as Small, Medium, Large, and Infant, Child, Adult may be indicated here
+* Sizes are sometimes reflected as whole numbers (e.g. Size 1, Size 2)
 * French measurements are reflected here (e.g. "17Fr")
-* French measurements are abbreviated "Fr."
+* French measurements are abbreviated "Fr" (capital "F" lowercase "r" no period)
+* For French measurements there should be no space between the number and the capital "F" (e.g. "17Fr" not "17 Fr")
 * *NOTE* 1 French = 1/3 (0.33) millimeter
 
 
