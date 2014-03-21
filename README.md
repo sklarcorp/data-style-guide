@@ -86,7 +86,8 @@ Field Specific Rules & Guidelines
 
 ### Curvature ###
 * Generally: Straight, Curved, Angled, Slightly Curved, Strongly Curved, Double / "S" Curve
-* Specific angle may also be indicated (e.g. Angled 90 Degrees or Angled Right)
+* Specific angle may also be indicated 
+* If an instrument is angled, indicate the specifics of the angle in parenthesis following the word "Angled" (e.g. Angled (25 degrees) or Angled (25 Degrees Upwards) or Angled (Upwards)
 * If indicated, spell out the word "Degrees"
 
 
