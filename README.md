@@ -225,6 +225,7 @@ Field Specific Rules & Guidelines
       - _Dual Gold Finger Rings_, as in [21-2070  Sklargrip™ Mayo-Hegar Needle Holder](http://www.sklarcorp.com/sklargrip-mayo-hegar-needle-holder-5119.html)
     - **SklarSafe™** _Safety Scalpels_
     - **SklarSpec™** _Disposable Vaginal Specula_
+      - _Clear Plastic_
     - **Sklar Tru-Punch™** _Single-Use Biopsy Punch_
     - **Sklar LiteGrip™** _Fenestrated Handles_
       - as in, [66-4034 Sklar LiteGrip™ Bishop-Harmon Forceps](http://www.sklarcorp.com/sklar-litegrip-fenestrated-handle-bishop-harmon-forceps.html)
