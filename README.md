@@ -172,7 +172,7 @@ Field Specific Rules & Guidelines
   *  Plier with Spring, as in [93-492 Roux Syringe](http://www.sklarcorp.com/catalogsearch/result/?q=93-492&order=teir_level&dir=asc)
   *  Plier with Double Spring and Lock, as in [97-0474  Nail Nipper](http://www.sklarcorp.com/nail-nipper.html)
   *  Plier with Ratchet, as in [40-2413  Lane Bone Holding Forceps](http://www.sklarcorp.com/catalogsearch/result/?q=40-2413&order=teir_level&dir=asc)
-  *  Plier with One Hook, as in [48-752 Extracting Forceps #18L Left] (http://www.sklarcorp.com/extracting-forceps-18l-left.html) 
+  *  Plier with One Hook, as in [48-752 Extracting Forceps #18L Left](http://www.sklarcorp.com/extracting-forceps-18l-left.html) 
   *  Loop, as in [10-1356 Cannula Cleaning Brush](http://www.sklarcorp.com/cannula-instrument-cleaning-brush-1419.html)
   *  Loop with Grip, as in [62-8000  Aspirating Syringe](http://www.sklarcorp.com/catalogsearch/result/?q=62-8000&order=teir_level&dir=asc)
   *  Octagonal, as in [34-3624 Thoracic Trocar](http://www.sklarcorp.com/trocars/trocars/thoracic-trocar-4mm.html)
