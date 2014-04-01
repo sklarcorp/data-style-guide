@@ -233,25 +233,61 @@ Field Specific Rules & Guidelines
     - **Sklartech 5000™** _Laparoscopic_
   * Care and Cleaning
     - **SklarLite™**  _Sterlization Container System_
+      - Material = Stainless Steel Container and Silicone Mats & Inserts
+      - Color = Silver, Yellow, Red, Blue, Green, Black
     - **Sklar-Cide™**  _High Level Disinfecting and Sterilizing Solution_
+      - Material = Glutaraldehyde
+      - Color = Green when Activated, Clear when Unactivated
     - **Sklar Disinfectant™**  _Ready-To-Use Spray Surface Disinfectant_
+      - Material = Isopropanol
+      - Color = Clear
     - **Sklar Disinfectant™ Wipes**  _Ready-To-Use, Premoistened Towelettes_
-    - **Sklar Ezymatic™**  _Multi-Enzyme Detergent Concentrate_
+      - Material = Isopropanol, Two Dual Chain Quaternary Ammonium Chlorides, Non-Woven Cloth
+      - Color = Blue Cloth with Clear Liquid
+    - **Sklar Enzymatic™**  _Multi-Enzyme Detergent Concentrate_
+      - Material = Protease Enzymes
+      - Color = Light Yellowish Clear
     - **Sklar Fresh™**  _Liquid Spray Odor Absorber_
+      - Material = 
+      - Color = White
     - **Sklar Instru-Guard™**  _Lubricant and Rust-Inhibitor_
       - **Instru-Guard™ Lube**  _Polymeric Lubricant Concentrate_
+        - Material = Polymeric Lubricant Concentrate
+        - Color = Milk White
       - **Instru-Guard™ One-Step**  _Concentrated, Aqueous Alkaline Soultion_
+        - Material = Potassium Hydroxide, Sodium Metasilicate, Methanol
+        - Color = Translucent Green
     - **Sklar Kleen™**  _for Manual and Ultrasonic Cleaning_
       - **Sklar Kleen™ Low Foam**  _Automatic Washer Liquid Detergent, Low Foam_
+        - Material = 
+        - Color = Slightly Amber
       - **Sklar Kleen™ Liquid**  _Manual and Ultrasonic Instrument Detergent, Liquid_
+        - Material = Sodium Dodecyl Benzene Sulfonate, Sodium Bicarbonate, Sodium Tripolyphosphate
+        - Color = Translucent Amber
       - **Sklar Kleen™ Powder**  _Manual and Ultrasonic Instrument Detergent, Powder_
+        - Material = Sodium Dodecyl Benzene Sulfonate, Sodium Bicarbonate, Sodium Tripolyphosphate
+        - Color = Blue
     - **Sklar Lube Spray**  _Ready-To-Use Polymeric Lubricant_
+      - Material = 
+      - Color = Milk White
     - **Sklar Lugols**  _Iodine Contrast Medium_
+      - Material = Iodine, Potassium Iodide
+      - Color = Deep Yellow
     - **Sklar Monsels**  _Ready-To-Use Hemostatic Paste_
+      - Material = Ferric Subsulfate
+      - Color = Mustard Yellow
     - **Sklar Polish™**  _Powdered Stain Remover_
+      - Material = Citric Acid Powder
+      - Color = White
     - **Sklar-Sheen™ Spray**  _Spray Foam Autoclave Cleaner and Conditioner_
+      - Material = Phosphoric Acid
+      - Color = Reddish Pink
     - **Sklar Soak™**  _Liquid Disinfectant_
+      - Material = Isopropanol
+      - Color = Clear
     - **Sklar Spray-Zyme™**  _Instrument Pre-Cleaner with Multi-Enzymatic Foam_  
+      - Material = Lipase and Protease Enzymes
+      - Color = Caribbean Green
       &nbsp;
     - Material Data Safety Sheets for Care and Cleaning Products is available at [MSDS](http://www.sklarcorp.com/msds)
     
