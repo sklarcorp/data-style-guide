@@ -318,7 +318,11 @@ Field Specific Rules & Guidelines
 *   Stainless Steel = Gray
 *   Silver = Silver
 *   Aluminum = Silver
- *   **NOTE**   _Anodized_ Aluminum = Various, as in [SklarLite™ Sterlization Container Lids](http://www.sklarcorp.com/pdf/StainlessSteelwareCatalog.pdf)
+*   Anodized Aluminum = Various, as in[SklarLite™ Sterlization Container Lids](http://www.sklarcorp.com/pdf/StainlessSteelwareCatalog.pdf)
+ *   **NOTE**  Aluminum will only be different colors if it is _Anodized_
+ *   **NOTE**  Anodized Aluminum AND Non-Anodized Aluminum can be silver
+   *   Anodized Aluminum = Silver [10-4466, Sterilization Container Lid](http://www.sklarcorp.com/sklarlite-sterilization-mid-size-container-lid-8925.html)
+   *   Non-Anodized Aluminum = Silver [65-7634, Fox Aluminum Eye Shield](http://www.sklarcorp.com/fox-aluminum-eye-shield.html)
 *   Chrome = Chrome
 *   Gold coating on handles = Gold
 *   Sklar Black™ coating = Black
