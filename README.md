@@ -306,20 +306,31 @@ Field Specific Rules & Guidelines
 ### Material ###
 * Generally the primary material from which the instrument is made
 * Most Commonly: Stainless Steel, Plastic, Aluminum, Silver, Tungsten Carbide
-* Also Silicone - **NOTE**  _Silicone_ is a rubber-like synthetic compound, as in  [90-5262 Sklar Silicone Vaginal Dilators]( http://www.sklarcorp.com/sklar-silicone-vaginal-dilators-5265.html) as opposed to _Silicon_ which is a semi-conductive metalloid
+* Also Silicone
+ * **NOTE**    _Silicone_ is a rubber-like synthetic compound, as in  [90-5262 Sklar Silicone Vaginal Dilators]( http://www.sklarcorp.com/sklar-silicone-vaginal-dilators-5265.html) as opposed to _Silicon_ which is a semi-conductive metalloid. 
+ * There are few, if any, Sklar® instruments that actually contain Silicon.
+ 
+
 
 ### Color ###
 * Generally reflects the color of the instrument based on the material from which the instrument is made
 * Most Commonly: 
-*   Gray = Stainless Steel
+*   Stainless Steel = Gray
 *   Silver = Silver
-*   Silver = Aluminum
+*   Aluminum = Silver
+ *   **NOTE**   _Anodized_ Aluminum = Various, as in [SklarLite™ Sterlization Container Lids](http://www.sklarcorp.com/pdf/StainlessSteelwareCatalog.pdf)
 *   Chrome = Chrome
-*   Gold = Gold coating on handles
-*   Black = Sklar Black™ coating
-*   Blue = Sklar Blue™ coating
-*   Various colors (lime green, purple, red) on finger rings of scissor handles
-*   Various colors (black, red, blue, green) for stethoscope tubing
+*   Gold coating on handles = Gold
+*   Sklar Black™ coating = Black
+*   Sklar Blue™ coating = Blue
+*   Plastic = Various
+    *   [96-2950, Plastic Surgical Prep Razor](http://www.sklarcorp.com/plastic-surgical-prep-razor-non-sterile-case-of-100.html)
+    *   [96-2916, Plastic Dressing Forceps](  http://www.sklarcorp.com/5-plastic-dressing-forceps-non-sterile-box-of-100.html) 
+    *   [10-3062, Plastic Instrument Soaking Tray](http://www.sklarcorp.com/instrument-soaking-tray-13602.html)
+*   Silicone = Various
+    *   [68-8002 through 68-8005 Aspirating Syringes](http://www.sklarcorp.com/catalogsearch/result/?q=aspriating+syringe&order=teir_level&dir=asc)
+    *   [10-6543, Silicone Instrument Holder](http://www.sklarcorp.com/silicone-instrument-holder-for-cassettes-with-hinged-lid-3-3-20.html)
+ 
 
 
 ### Sterile? ###
