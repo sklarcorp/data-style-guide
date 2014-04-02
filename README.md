@@ -45,6 +45,13 @@ General Rules & Guidelines
 * Generally _do not_ capitalize units of measure (e.g. inches)
 * Generally _do not_ capitalize prepositions and conjunctions
 
+### Spaces and Slashes ###
+*  Generally there should be a space before and after a slash 
+  *  (e.g. Handle: Bayonet / Offset Thumb)
+  *  (e.g. Family Name: Hartmann / Alligator)
+*  DO NOT put a space before a slash when describing a `Tip End Style` or completing any `Tip End` field
+  *  (e.g. Sharp/Sharp; Sharp/Blunt; Blunt/Blunt)
+
 
 
 
