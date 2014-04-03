@@ -314,15 +314,15 @@ Field Specific Rules & Guidelines
 
 ### Color ###
 * Generally reflects the color of the instrument based on the material from which the instrument is made
-* Most Commonly: 
+* When listing multiple colors, begin at the working end of the instrument and move away from there.  Color for [96-1228, Utility Shears](http://www.sklarcorp.com/utility-shears-sterile-lime-green.html) would be reflected as "Stainless Steel / Lime Green" or "Stainless Steel / Pink"
+* There should be a space before and after the slashes as specified in the [General Rules & Guidelines Section]((#general-rules--guidelines))
+* Most Common Colors: 
 *   Stainless Steel = Gray
 *   Silver = Silver
-*   Aluminum = Silver
+*   Aluminum (Non-Anodized) = Silver
 *   Anodized Aluminum = Various, as in[SklarLite™ Sterlization Container Lids](http://www.sklarcorp.com/pdf/StainlessSteelwareCatalog.pdf)
- *   **NOTE**  Aluminum will only be different colors if it is _Anodized_
- *   **NOTE**  Anodized Aluminum AND Non-Anodized Aluminum can be silver
-   *   Anodized Aluminum = Silver [10-4466, Sterilization Container Lid](http://www.sklarcorp.com/sklarlite-sterilization-mid-size-container-lid-8925.html)
-   *   Non-Anodized Aluminum = Silver [65-7634, Fox Aluminum Eye Shield](http://www.sklarcorp.com/fox-aluminum-eye-shield.html)
+    *  **NOTE**  If a material is listed as simply "Aluminum" but it is colored, the material is "Anodized Aluminum."  For our purposes, only Anondized Aluminum can be colored.  
+    *  **ALSO**  Both "Non-Anodized" Aluminum and "Anodized" Aluminum can be silver.  
 *   Chrome = Chrome
 *   Gold coating on handles = Gold
 *   Sklar Black™ coating = Black
@@ -331,6 +331,11 @@ Field Specific Rules & Guidelines
     *   [96-2950, Plastic Surgical Prep Razor](http://www.sklarcorp.com/plastic-surgical-prep-razor-non-sterile-case-of-100.html)
     *   [96-2916, Plastic Dressing Forceps](  http://www.sklarcorp.com/5-plastic-dressing-forceps-non-sterile-box-of-100.html) 
     *   [10-3062, Plastic Instrument Soaking Tray](http://www.sklarcorp.com/instrument-soaking-tray-13602.html)
+*   Polypropylene = Various
+    *   [96-1228, Utility Shears](http://www.sklarcorp.com/utility-shears-sterile-lime-green.html)
+     *  **NOTE** Polypropylene is a Plastic, but not all Plastic is Polypropylene
+     *  [The Seven Most Common Plastics](http://www.reuseit.com/product-materials/the-7-most-common-plastics-and-how-they-are-typically-used.htm)
+     
 *   Silicone = Various
     *   [68-8002 through 68-8005 Aspirating Syringes](http://www.sklarcorp.com/catalogsearch/result/?q=aspriating+syringe&order=teir_level&dir=asc)
     *   [10-6543, Silicone Instrument Holder](http://www.sklarcorp.com/silicone-instrument-holder-for-cassettes-with-hinged-lid-3-3-20.html)
