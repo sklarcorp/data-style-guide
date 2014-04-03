@@ -151,10 +151,20 @@ Field Specific Rules & Guidelines
 
 ### Size / Model ###
 * Adjectives such as Small, Medium, Large, and Infant, Child, Adult may be indicated here
-* Sizes are sometimes reflected as whole numbers (e.g. Size 1, Size 2)
-* French measurements are reflected here (e.g. "17Fr")
-* French measurements are abbreviated "Fr" (capital "F" lowercase "r" no period)
-* For French measurements there should be no space between the number and the capital "F" (e.g. "17Fr" not "17 Fr")
+ * [90-3957, Cusco Vaginal Speculum](http://www.sklarcorp.com/cusco-vaginal-speculum-6046.html)
+ * [70-1041, Halle Nasal Speculum](http://www.sklarcorp.com/halle-nasal-speculum-5049.html)
+* Sizes are sometimes reflected with the word "Size" and a whole number (e.g. Size 1, Size 2)
+ * [93-1762-2, Regular Surgeon Needle](http://www.sklarcorp.com/regular-surgeon-needle-13257.html) 
+* Sizes are sometimes reflected with the "Pound" Symbol (#) and a whole number (e.g. #1, #2, #3)
+ * [90-5284, Gelhorn Pessary](http://www.sklarcorp.com/gelhorn-pessary-5551.html) 
+* A Double-Ended instrument will have sizes reflected in this field separated by a slash (e.g. 21 / 22 or #9 / #10)
+ * [90-4921, Hank Uterine Dilator](http://www.sklarcorp.com/catalogsearch/result/?q=90-4921&order=teir_level&dir=asc) 
+ * [49-2985, Schluger Scaler](http://www.sklarcorp.com/schluger-scaler.html) 
+* There should be a space before and after the slashes as specified in the [General Rules & Guidelines Section]((#general-rules--guidelines))
+* French measurements are reflected here
+* French measurements are reflected by a whole number followed by the word "French" spelled out with a capital "F"
+* For French measurements there should be a space between the number and the word "French"
+ * [50-2008, Frazier Suction Tube](http://www.sklarcorp.com/frazier-suction-tube-13770.html)
 * *NOTE* 1 French = 1/3 (0.33) millimeter
 
 
