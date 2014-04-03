@@ -52,6 +52,10 @@ General Rules & Guidelines
 *  DO NOT put a space before a slash when describing a `Tip End Style` or completing any `Tip End` field
   *  (e.g. Sharp/Sharp; Sharp/Blunt; Blunt/Blunt)
 
+### Spelling Out Words and Use of Symbols or Abbreviations ###
+*  Spell out the words "with" and "without" - Do Not Use "w/" or "w/o" abbreviations
+*  As specified in the Capitalization Section, _do not_ capitalize the "w" in "with" and "without"
+
 
 
 
