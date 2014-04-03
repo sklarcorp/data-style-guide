@@ -55,6 +55,7 @@ General Rules & Guidelines
 ### Spelling Out Words and Use of Symbols or Abbreviations ###
 *  Spell out the words "with" and "without" - Do Not Use "w/" or "w/o" abbreviations
 *  As specified in the Capitalization Section, _do not_ capitalize the "w" in "with" and "without"
+*  Spell out the word "French" when referring to French measurements.   _Do Not_ use any form of abbreviation (e.g. "Fr"  "FR"  "Fr.")
 
 
 
