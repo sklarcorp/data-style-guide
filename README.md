@@ -338,7 +338,7 @@ Field Specific Rules & Guidelines
 *   Anodized Aluminum = Various, as in[SklarLite™ Sterlization Container Lids](http://www.sklarcorp.com/pdf/StainlessSteelwareCatalog.pdf)
     *  **NOTE**  If a material is listed as simply "Aluminum" but it is colored, the material is "Anodized Aluminum."  For our purposes, only Anondized Aluminum can be colored.  
     *  **ALSO**  Both "Non-Anodized" Aluminum and "Anodized" Aluminum can be silver.  
-*   Chrome = Chrome
+*   Chrome Plated = Chrome
 *   Gold coating on handles = Gold
 *   Sklar Black™ coating = Black
 *   Sklar Blue™ coating = Blue
