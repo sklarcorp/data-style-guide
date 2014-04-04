@@ -92,7 +92,8 @@ Field Specific Rules & Guidelines
 
 ### Inches (Decimal) ###
 * Generally the overall length of the instrument identified in inches in decimal format
-* No ending zero after whole numbers (e.g. 6" not 6.0")
+* Measurements in this field should not be followed by the inches symbol (e.g. an insturment with a length of 6 inches will be reflected in this field simply as "6")
+* No ending zero after whole numbers (e.g. 6 not 6.0)
 * Leading zero for measurements less than 1 (e.g. 0.2 not .2)
 
 
