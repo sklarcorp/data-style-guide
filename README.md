@@ -326,6 +326,16 @@ Field Specific Rules & Guidelines
  * **NOTE**    _Silicone_ is a rubber-like synthetic compound, as in  [90-5262 Sklar Silicone Vaginal Dilators]( http://www.sklarcorp.com/sklar-silicone-vaginal-dilators-5265.html) as opposed to _Silicon_ which is a semi-conductive metalloid. 
  * There are few, if any, Sklar® instruments that actually contain Silicon.
  
+* When listing multiple materials or ingredients:
+ * Ask the question "Can I see where one material ends and the next begins?"
+ * This will help you determine if the materials should be separated by a comma or a forward slash.
+
+ * "Non-Discrete" materials or ingredients are separated by a comma (",") meaning you cannot see where one ends and the next begins. (e.g. There are three ingredients in a cleaning product: Potassium Hydroxide and Sodium Metasilicate and Methanol. You cannot see where one ingredient ends and another begins because they are mixed together. These are considered "Non-Discrete" and would be listed using a comma as Potassium Hydroxide, Sodium Metasilicate, Methanol.)
+
+ * "Discrete" materials or ingredients are separated by a forward slash ("/") meaning you CAN see where one ends and the next begins. (e.g. A pair of scissors has Tungsten Carbide Inserts. You can see the line where the TC Insert ends and the Stainless Steel jaw begins. There are considered "Discrete" and would be listed using a forward slash as Tungsten Carbide / Stainless Steel.)
+
+ * **NOTE** Remember the General Rule for using a forward slash is that a space should go both before and after the slash.
+ 
 
 
 ### Color ###
