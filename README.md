@@ -320,8 +320,8 @@ Field Specific Rules & Guidelines
         * Windows: alt+0153
 
 ### Material ###
-* Generally the primary material from which the instrument is made
-* Most Commonly: Stainless Steel, Plastic, Aluminum, Silver, Tungsten Carbide
+* Generally the primary material(s) from which an instrument or cleaning product is made.
+* Most Common Instument Materials: Stainless Steel, Plastic, Aluminum, Silver, Tungsten Carbide
 * Also Silicone
  * **NOTE**    _Silicone_ is a rubber-like synthetic compound, as in  [90-5262 Sklar Silicone Vaginal Dilators]( http://www.sklarcorp.com/sklar-silicone-vaginal-dilators-5265.html) as opposed to _Silicon_ which is a semi-conductive metalloid. 
  * There are few, if any, Sklar® instruments that actually contain Silicon.
@@ -334,8 +334,7 @@ Field Specific Rules & Guidelines
 
  * "Discrete" materials or ingredients are separated by a forward slash ("/") meaning you CAN see where one ends and the next begins. (e.g. A pair of scissors has Tungsten Carbide Inserts. You can see the line where the TC Insert ends and the Stainless Steel jaw begins. There are considered "Discrete" and would be listed using a forward slash as Tungsten Carbide / Stainless Steel.)
 
- * **NOTE** Remember the General Rule for using a forward slash is that a space should go both before and after the slash.
- 
+   * When listing multiple "Discrete" materials, begin at the working end of the instrument and move away from there.  Materials for [96-1228, Utility Shears](http://www.sklarcorp.com/utility-shears-sterile-lime-green.html) would be reflected as "Stainless Steel / Polypropylene"
 
 
 ### Color ###
