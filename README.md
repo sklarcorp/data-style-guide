@@ -271,7 +271,7 @@ Field Specific Rules & Guidelines
       - Material = Protease Enzymes
       - Color = Light Yellowish Clear
     - **Sklar Fresh™**  _Liquid Spray Odor Absorber_
-      - Material = 
+      - Material = Blend of pure biodegradable organic oils and trace elements
       - Color = White
     - **Sklar Instru-Guard™**  _Lubricant and Rust-Inhibitor_
       - **Instru-Guard™ Lube**  _Polymeric Lubricant Concentrate_
@@ -282,7 +282,7 @@ Field Specific Rules & Guidelines
         - Color = Translucent Green
     - **Sklar Kleen™**  _for Manual and Ultrasonic Cleaning_
       - **Sklar Kleen™ Low Foam**  _Automatic Washer Liquid Detergent, Low Foam_
-        - Material = 
+        - Material = Polyoxypropylene-polyoxyethylene block copolymer, Sodium xylene sulfonate, Anionic phosphate ester-potassium salt, Tetrasodium EDTA
         - Color = Slightly Amber
       - **Sklar Kleen™ Liquid**  _Manual and Ultrasonic Instrument Detergent, Liquid_
         - Material = Sodium Dodecyl Benzene Sulfonate, Sodium Bicarbonate, Sodium Tripolyphosphate
@@ -291,7 +291,7 @@ Field Specific Rules & Guidelines
         - Material = Sodium Dodecyl Benzene Sulfonate, Sodium Bicarbonate, Sodium Tripolyphosphate
         - Color = Blue
     - **Sklar Lube Spray**  _Ready-To-Use Polymeric Lubricant_
-      - Material = 
+      - Material = Polymeric Lubricant
       - Color = Milk White
     - **Sklar Lugols**  _Iodine Contrast Medium_
       - Material = Iodine, Potassium Iodide
