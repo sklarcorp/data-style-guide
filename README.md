@@ -254,6 +254,8 @@ Field Specific Rules & Guidelines
     - **Sklar LiteGrip™** _Fenestrated Handles_
       - as in, [66-4034 Sklar LiteGrip™ Bishop-Harmon Forceps](http://www.sklarcorp.com/sklar-litegrip-fenestrated-handle-bishop-harmon-forceps.html)
     - **Sklartech 5000™** _Laparoscopic_
+      - _Sklartech 5000 HX™_ - Disposable Insert, as in [31-7007 Sklartech 5000 HX™ Metzenbaum Scissor](http://www.sklarcorp.com/sklartech-5000-hx-metzenbaum-scissor-straight-for-use-w-31-7001xc-or-31-7002yc-reusable-handles-sterile-33cm-5mm-pack-of-10.html)
+      - _Sklartech 5000 X™_ - 100% Disposable Instrument, as in [31-7012XC, Sklartech 5000 X™ Metzenbaum Scissors 100% Disposable](http://www.sklarcorp.com/catalogsearch/result/?q=31-7012xc&order=teir_level&dir=asc)
   * Care and Cleaning
     - **SklarLite™**  _Sterlization Container System_
       - Material = Stainless Steel Container and Silicone Mats & Inserts
