@@ -41,9 +41,10 @@ General Rules & Guidelines
 --------------------------
 
 ### Capitalization ###
-* Generally capitalize the first letter of each word
-* Generally _do not_ capitalize units of measure (e.g. inches)
-* Generally _do not_ capitalize prepositions and conjunctions
+* As much as possible we will follow [Title Case](http://en.wikipedia.org/wiki/Letter_case#Case_styles) when completing data fields 
+ * Generally capitalize the first letter of each word except articles, prepositions, and conjunctions
+ * Generally _do not_ capitalize units of measure (e.g. inches)
+
 
 ### Spaces and Slashes ###
 *  Generally there should be a space before and after a slash 
