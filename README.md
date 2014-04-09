@@ -56,6 +56,7 @@ General Rules & Guidelines
 *  Spell out the words "with" and "without" - Do Not Use "w/" or "w/o" abbreviations
 *  As specified in the Capitalization Section, _do not_ capitalize the "w" in "with" and "without"
 *  Spell out the word "French" when referring to French measurements.   _Do Not_ use any form of abbreviation (e.g. "Fr"  "FR"  "Fr.")
+*  Spell out the word "Degrees".  Do not use the abbreviation "°"
 
 
 
@@ -108,6 +109,7 @@ Field Specific Rules & Guidelines
 * Most Commonly: Smooth or Serrated
 * May also be Cross-Serrated, Horizontally Serrated, Vertically Serrated, Partially Serrated
 * Fenestrated will be indicated here
+* Tungsten Carbide Needle Holders will always have either a Smooth or _Cross_-Serrated Working Surface Style
 
 
 ### Tip End Style ###
