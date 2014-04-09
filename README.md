@@ -56,7 +56,7 @@ General Rules & Guidelines
 *  Spell out the words "with" and "without" - Do Not Use "w/" or "w/o" abbreviations
 *  As specified in the Capitalization Section, _do not_ capitalize the "w" in "with" and "without"
 *  Spell out the word "French" when referring to French measurements.   _Do Not_ use any form of abbreviation (e.g. "Fr"  "FR"  "Fr.")
-*  Spell out the word "Degrees".  Do not use the abbreviation "°"
+*  Spell out the word "Degrees".  Do not use the symbol °
 
 
 
@@ -102,7 +102,8 @@ Field Specific Rules & Guidelines
 * Generally: Straight, Curved, Angled, Slightly Curved, Strongly Curved, Double / "S" Curve
 * Specific angle may also be indicated 
 * If an instrument is angled, indicate the specifics of the angle in parenthesis following the word "Angled" (e.g. Angled (25 degrees) or Angled (25 Degrees Upwards) or Angled (Upwards)
-* If indicated, spell out the word "Degrees"
+*  Spell out the word "Degrees".  Do not use the symbol ° 
+*  Double Ended instruments will have two values in the `Curvature` field
 
 
 ### Working Surface Style ###
