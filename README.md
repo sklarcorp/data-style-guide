@@ -60,6 +60,7 @@ General Rules & Guidelines
 *  Measurements requiring fractions should have a space between the whole number and the fraction 
   (e.g. 6 1/2" not 61/2")
 *  Do not put a space between the numbers creating a fraction (e.g. 1/2" not 1 / 2")
+*  Do not put a space between a 
 
 
 ### Spelling Out Words and Use of Symbols or Abbreviations ###
@@ -67,7 +68,9 @@ General Rules & Guidelines
 *  As specified in the Capitalization Section, _do not_ capitalize the "w" in "with" and "without"
 *  Spell out the word "French" when referring to French measurements.   _Do Not_ use any form of abbreviation (e.g. "Fr"  "FR"  "Fr.")
 *  Spell out the word "Degrees".  Do not use the symbol °
+* "Inches" should be reflected as the symbol "
 * "Millimeters" should be reflected as a lowercase abbreviation (e.g. "mm")
+* "Centimeters should be reflected as a lowercase abbreviation (e.g. "cm")
 
 
 
@@ -93,9 +96,11 @@ Field Specific Rules & Guidelines
 
 
 ### Length ###
-* Generally the overall length of the instrument identified in inches in whole numbers and fractions
-* If the choice between Length and Width appears arbitrary (e.g. a bin of dimensions 2" by 5" and 1" Depth) prefer assigning the longer side as the Length
-* Measurements should be followed by the inches symbol (") (e.g. 6")
+* Generally the overall length of the instrument identified in any single measurement regardless of unit
+* Measurements should be followed by the applicable symbol or abbreviation
+  * Inches = (") as in [06-2860 Steel Ruler](http://www.sklarcorp.com/6-steel-ruler.html)
+  * Millimeters = (mm) as in [91-6100 Bipolar Adson Forceps](http://www.sklarcorp.com/bipolar-adson-forceps.html)
+  * Centimeters = (cm) as in [40-3252 Sheehan Gouge](http://www.sklarcorp.com/sheehan-gouge-16cm.html)
 * Measurements requiring fractions should have a space between the whole number and the fraction 
   (e.g. 6 1/2" not 61/2")
 * No ending zero after whole numbers (e.g. 6" not 6.0")
