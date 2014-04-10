@@ -8,7 +8,7 @@ Data Style Guide Overview
 * [Family Name](#family-name)
 * [Product](#product)
 * [Length](#length)
-* [Inches (Decimal)](#inches-decimal)
+* [Sorting Length (Decimal Inches)](#Sorting Length)
 * [Curvature](#curvature)
 * [Working Surface Style](#working-surface-style)
 * [Tip End Style](#tip-end-style)
@@ -107,7 +107,7 @@ Field Specific Rules & Guidelines
 
 
 
-### Inches (Decimal) ###
+### Sorting Length (Decimal Inches) ###
 * Generally the overall length of the instrument identified in inches in decimal format
 * Measurements in this field should not be followed by the inches symbol (e.g. an insturment with a length of 6 inches will be reflected in this field simply as "6")
 * No ending zero after whole numbers (e.g. 6 not 6.0)
