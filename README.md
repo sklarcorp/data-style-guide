@@ -41,9 +41,14 @@ General Rules & Guidelines
 --------------------------
 
 ### Capitalization ###
-* As much as possible we will follow [Title Case](http://en.wikipedia.org/wiki/Letter_case#Case_styles) when completing data fields 
- * Generally capitalize the first letter of each word except articles, prepositions, and conjunctions
- * Generally _do not_ capitalize units of measure (e.g. inches)
+* Follow the rules for [Title Case](http://en.wikipedia.org/wiki/Letter_case#Case_styles) when completing most data fields 
+* Generally this means to capitalize the first letter of each word except articles, prepositions, and conjunctions
+ * Examples of [Articles](http://en.wikipedia.org/wiki/Article_(grammar))  are "the"  "a"  and "an" 
+ * Examples of [Prepositions](http://www.merriam-webster.com/dictionary/preposition) are "on" "in" and "to"
+ * Examples of [Conjunctions](http://en.wikipedia.org/wiki/Conjunction_(grammar)) are "and"  "or"  and "but"
+* **NOTE** For our purposes _do not_ capitalize units of measure (e.g. inches)
+
+* Follow the rules for [Sentence Case](http://en.wikipedia.org/wiki/Letter_case#Case_styles) when completing `Short Description` and `Description` fields because they are more likely to follow a paragraph format and incorporate existing marketing information
 
 
 ### Spaces and Slashes ###
@@ -52,12 +57,17 @@ General Rules & Guidelines
   *  (e.g. Family Name: Hartmann / Alligator)
 *  DO NOT put a space before a slash when describing a `Tip End Style` or completing any `Tip End` field
   *  (e.g. Sharp/Sharp; Sharp/Blunt; Blunt/Blunt)
+*  Measurements requiring fractions should have a space between the whole number and the fraction 
+  (e.g. 6 1/2" not 61/2")
+*  Do not put a space between the numbers creating a fraction (e.g. 1/2" not 1 / 2")
+
 
 ### Spelling Out Words and Use of Symbols or Abbreviations ###
 *  Spell out the words "with" and "without" - Do Not Use "w/" or "w/o" abbreviations
 *  As specified in the Capitalization Section, _do not_ capitalize the "w" in "with" and "without"
 *  Spell out the word "French" when referring to French measurements.   _Do Not_ use any form of abbreviation (e.g. "Fr"  "FR"  "Fr.")
 *  Spell out the word "Degrees".  Do not use the symbol °
+* "Millimeters" should be reflected as a lowercase abbreviation (e.g. "mm")
 
 
 
