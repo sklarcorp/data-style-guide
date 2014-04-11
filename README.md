@@ -130,8 +130,9 @@ Field Specific Rules & Guidelines
 * **DeBakey** and **Cooley** Style Teeth will be reflected in the `Working Surface` field rather than the `Tip End Style` where Teeth details are generally recorded.
   *  _DeBakey_ Style Teeth are available in 2 variations: 1x2 rows of atraumatic teeth and 2x3 rows of atraumatic teeth
     *  [52-4977, DeBakey Atraumatic Forceps (with 1x2 rows of atraumatic teeth)](http://www.sklarcorp.com/7-3-4-debakey-atraumatic-forcep-1mm.html)
-  *  _Cooley_ Style Teeth are 2x2 rows of atraumatic teeth, designed for use with infants and children
-  *  The [Vascular Jaw Configuration](https://db.tt/0JNcoIxd) document illustrates the three varieties
+  *  _Cooley_ Style Teeth are available in 2 variations: 2x2 rows of atraumatic teeth and 3x3 rows of atraumatic teeth, designed for use with infants and children
+    *  [Images here]( https://www.dropbox.com/lightbox/home/Screenshots)
+    *  The [Vascular Jaw Configuration](https://db.tt/0JNcoIxd) document also illustrates three varieties
 
 
 ### Tip End Style ###
