@@ -224,6 +224,7 @@ Field Specific Rules & Guidelines
   *  Loop with Grip, as in [62-8000  Aspirating Syringe](http://www.sklarcorp.com/catalogsearch/result/?q=62-8000&order=teir_level&dir=asc)
   *  Octagonal, as in [34-3624 Thoracic Trocar](http://www.sklarcorp.com/trocars/trocars/thoracic-trocar-4mm.html)
   *  Knurled, as in [41-800 Gracey Curette](http://www.sklarcorp.com/gracey-curette.html)
+    *  [Definition of Knurled](https://www.google.com/search?q=how+many+variations+of+DeBakey+teeth+&rlz=1C1CHFX_enUS559US559&oq=how+many+variations+of+DeBakey+teeth+&aqs=chrome..69i57.10096j0j8&sourceid=chrome&es_sm=93&ie=UTF-8#q=define+knurled)
   *  T-Style, as in [40-6855 Bone Hook](http://www.sklarcorp.com/bone-hook.html)
   *  with Horizontal Grooves, as in [49-3360  Williger Raspatory](http://www.sklarcorp.com/williger-raspatory-6-1-4.html) or [11-1298  Commander Utility Shears](http://www.sklarcorp.com/commander-utility-shears.html)
   *  with Vertical Grooves, as in [40-9070 Kermisson Periosteal Raspatory](http://www.sklarcorp.com/catalogsearch/result/?q=40-9070&order=teir_level&dir=asc) or [40-7445 Chandler Elevator](http://www.sklarcorp.com/orthopedic/elevators/chandler-elevator-6461.html)
