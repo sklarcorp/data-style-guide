@@ -254,13 +254,15 @@ Field Specific Rules & Guidelines
 ### Brand ###
 * Generally describes the brand of a Premium Grade instrument
 * Sklar brands are as follows:
-  * Instruments
+  * **INSTRUMENTS**
     - **Sklarlite™** _Extra Light_ 
     - **Sklarlite XD™** _Extra Light and Extra Delicate_
     - **Sklar Blue™** _Electrosurgical_
-      - _Single Blue Tip_, as in [91-5252 Sklar Blue™ Emmett Hook #2](http://www.sklarcorp.com/sklar-blue-emmett-hook-2.html)
-      - _Dual Blue Tips_, as in [91-5450 Sklar Blue™ Schroeder Tenaculum](http://www.sklarcorp.com/sklar-blue-schroeder-tenaculum.html)
-      - _Blue Blades_, as in [91-5047 Sklar Blue™ Pederson Vaginal Speculum](http://www.sklarcorp.com/sklar-blue-pederson-vaginal-speculum-3456.html)
+- _Single Blue Tip_, as in [91-5252 Sklar Blue™ Emmett Hook#2](http://www.sklarcorp.com/sklar-blue-emmett-hook-2.html)
+- _Dual Blue Tips_, as in [91-5450 Sklar Blue™ Schroeder Tenaculum](http://www.sklarcorp.com/sklar-blue-schroeder-tenaculum.html)
+- _Blue Blades_, as in [91-5047 Sklar Blue™ Pederson Vaginal Speculum](http://www.sklarcorp.com/sklar-blue-pederson-vaginal-speculum-3456.html)
+-  **NOTE**  The appearance of blue coloring on an instrument does not always indicate it is a Sklar Blue™ product
+-  [96-9679, Coated Electrode Needle](http://www.sklarcorp.com/coated-electrode-needle-2831.html) is NOT a Sklar Blue™ product
     - **Sklar Black™ Laser** _Reduced Reflectivity_
       - _Dual Gold Finger Rings_, as in [90-2330 Sklar Black™ Laser Heaney Needle Holder](http://www.sklarcorp.com/sklar-black-laser-heaney-needle-holder.html)
     - **Sklarhone™** _Knifelike Razor Edge_
@@ -282,7 +284,8 @@ Field Specific Rules & Guidelines
     - **Sklartech 5000™** _Laparoscopic_
       - _Sklartech 5000 HX™_ - Disposable Insert, as in [31-7007 Sklartech 5000 HX™ Metzenbaum Scissor](http://www.sklarcorp.com/sklartech-5000-hx-metzenbaum-scissor-straight-for-use-w-31-7001xc-or-31-7002yc-reusable-handles-sterile-33cm-5mm-pack-of-10.html)
       - _Sklartech 5000 X™_ - 100% Disposable Instrument, as in [31-7012XC, Sklartech 5000 X™ Metzenbaum Scissors 100% Disposable](http://www.sklarcorp.com/catalogsearch/result/?q=31-7012xc&order=teir_level&dir=asc)
-  * Care and Cleaning
+  
+ * **CARE AND CLEANING**
     - **SklarLite™**  _Sterlization Container System_
       - Material = Stainless Steel Container and Silicone Mats & Inserts
       - Color = Silver, Yellow, Red, Blue, Green, Black
