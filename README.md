@@ -263,6 +263,7 @@ Field Specific Rules & Guidelines
       - _Blue Blades_, as in [91-5047 Sklar Blue™ Pederson Vaginal Speculum](http://www.sklarcorp.com/sklar-blue-pederson-vaginal-speculum-3456.html)
       - **NOTE**  The appearance of blue coloring on an instrument does not always indicate it is a Sklar Blue™ product
       - [96-9679, Coated Electrode Needle](http://www.sklarcorp.com/coated-electrode-needle-2831.html) is NOT a Sklar Blue™ product
+      - [96-9605, Electrosurgical Pencil](http://www.sklarcorp.com/electrosurgical-pencil-disposable-4596.html) is NOT a Sklar Blue ™ product
     - **Sklar Black™ Laser** _Reduced Reflectivity_
       - _Dual Gold Finger Rings_, as in [90-2330 Sklar Black™ Laser Heaney Needle Holder](http://www.sklarcorp.com/sklar-black-laser-heaney-needle-holder.html)
     - **Sklarhone™** _Knifelike Razor Edge_
