@@ -127,6 +127,10 @@ Field Specific Rules & Guidelines
 * May also be Cross-Serrated, Horizontally Serrated, Vertically Serrated, Partially Serrated
 * Fenestrated will be indicated here
 * Tungsten Carbide Needle Holders will always have either a Smooth or _Cross_-Serrated Working Surface Style
+* **DeBakey** and **Cooley** Style Teeth will be reflected in the `Working Surface` field rather than the `Tip End Style` where Teeth details are generally recorded.
+  *  _DeBakey_ Style Teeth are available in 2 variations: 1x2 rows of atraumatic teeth and 2x3 rows of atraumatic teeth
+  *  _Cooley_ Style Teeth are 2x2 rows of atraumatic teeth, designed for use with infants and children
+  *  The [Vascular Jaw Configuration](https://db.tt/0JNcoIxd) document illustrates the three varieties
 
 
 ### Tip End Style ###
