@@ -134,7 +134,7 @@ Field Specific Rules & Guidelines
   *  _Cooley_ Style Teeth are available in 2 variations:
     *  2x2 rows of atraumatic teeth, as in [52-6696, Cooley Vascular Tissue Forceps](http://www.sklarcorp.com/9-1-2-cooley-vascular-tissue-forceps.html)
     *  3x3 rows of atraumatic teeth
-    *  The [Vascular Jaw Configuration](https://db.tt/0JNcoIxd) document and [DeBakey and Cooley Style Teeth](https://www.dropbox.com/home/Screenshots) image also show examples 
+    *  The [Vascular Jaw Configuration](https://db.tt/0JNcoIxd) document and [DeBakey and Cooley Style Teeth](https://www.dropbox.com/lightbox/home/Screenshots) image also show examples 
 
 
 ### Tip End Style ###
