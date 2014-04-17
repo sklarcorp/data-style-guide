@@ -306,9 +306,9 @@ Field Specific Rules & Guidelines
     - **Sklar Enzymatic™**  _Multi-Enzyme Detergent Concentrate_
       - Material = Protease Enzymes
       - Color = Light Yellowish Clear
-    - **Sklar Fresh™**  _Liquid Spray Odor Absorber_
-      - Material = Blend of pure biodegradable organic oils and trace elements
-      - Color = White
+    - ~~**Sklar Fresh™**  _Liquid Spray Odor Absorber_~~ _[Discontinued]_
+      - ~~Material = Blend of pure biodegradable organic oils and trace elements~~
+      - ~~Color = White~~
     - **Sklar Instru-Guard™**  _Lubricant and Rust-Inhibitor_
       - **Instru-Guard™ Lube**  _Polymeric Lubricant Concentrate_
         - Material = Polymeric Lubricant Concentrate
