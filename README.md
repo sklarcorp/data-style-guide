@@ -291,7 +291,7 @@ Field Specific Rules & Guidelines
       - _Sklartech 5000 X™_ - 100% Disposable Instrument, as in [31-7012XC, Sklartech 5000 X™ Metzenbaum Scissors 100% Disposable](http://www.sklarcorp.com/catalogsearch/result/?q=31-7012xc&order=teir_level&dir=asc)
   
  * **CARE AND CLEANING**
-    - **SklarLite™**  _Sterlization Container System_
+    - **SklarLite™**  _Sterilization Container System_
       - Material = Stainless Steel Container and Silicone Mats & Inserts
       - Color = Silver, Yellow, Red, Blue, Green, Black
     - **Sklar-Cide™**  _High Level Disinfecting and Sterilizing Solution_
@@ -381,7 +381,7 @@ Field Specific Rules & Guidelines
 *   Stainless Steel = Gray
 *   Silver = Silver
 *   Aluminum (Non-Anodized) = Silver
-*   Anodized Aluminum = Various, as in [SklarLite™ Sterlization Container Lids](http://www.sklarcorp.com/pdf/StainlessSteelwareCatalog.pdf)
+*   Anodized Aluminum = Various, as in [SklarLite™ Sterilization Container Lids](http://www.sklarcorp.com/pdf/StainlessSteelwareCatalog.pdf)
     *  **NOTE**  If a material is listed as simply "Aluminum" but it is colored, the material is "Anodized Aluminum."  For our purposes, only Anondized Aluminum can be colored.  
     *  **ALSO**  Both "Non-Anodized" Aluminum and "Anodized" Aluminum can be silver.  
 *   Chrome Plated = Chrome
