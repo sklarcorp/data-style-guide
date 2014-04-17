@@ -277,7 +277,7 @@ Field Specific Rules & Guidelines
       - _Dual Black Finger Rings_, as in [15-7032 Sklarhone™ Jameson Scissors Supercut](http://www.sklarcorp.com/sklarhone-jameson-scissors.html)
     - **Sklar Edge™** _TC Scissors_
       - _Dual Gold Finger Rings_, as in [16-1915 Sklar Edge™ TC Metzenbaum Scissors](http://www.sklarcorp.com/catalogsearch/result/?q=sklaredge+scissors&order=teir_level&dir=asc)
-    - **Sklargrip™** _TC Needle Holders_
+    - ~~**Sklargrip™** _TC-Coated Needle Holders_~~ (Discontinued)
       - _Dual Gold Finger Rings_, as in [21-2070  Sklargrip™ Mayo-Hegar Needle Holder](http://www.sklarcorp.com/sklargrip-mayo-hegar-needle-holder-5119.html)
     - **SklarSafe™** _Safety Scalpels_
     - **SklarSpec™** _Disposable Vaginal Specula_
