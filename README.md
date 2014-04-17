@@ -60,7 +60,6 @@ General Rules & Guidelines
 *  Measurements requiring fractions should have a space between the whole number and the fraction 
   (e.g. 6 1/2" not 61/2")
 *  Do not put a space between the numbers creating a fraction (e.g. 1/2" not 1 / 2")
-*  Do not put a space between a 
 
 
 ### Spelling Out Words and Use of Symbols or Abbreviations ###
