@@ -489,4 +489,8 @@ Field Specific Rules & Guidelines
  * Clamping and Occluding
  * Exposing and Retracting
 * May be a more specific description
- *  [90-6820, Eppendorfer Biopsy Punch](http://www.sklarcorp.com/eppendorfer-biopsy-punch.html) is a cutting instrument, but the action may be described as "bite" or "punch" to pinpoint the _type_ of cutting action  
+ *  [90-6820, Eppendorfer Biopsy Punch](http://www.sklarcorp.com/eppendorfer-biopsy-punch.html) is a cutting instrument, but the action may be described as "bite" or "punch" to pinpoint the _type_ of cutting action
+* May be based on the way the instrument functions
+ *  [40-3910, Stille-Horsley Bone Cutting Forceps](http://www.sklarcorp.com/stille-horsley-bone-cutting-forceps.html) is a cutting instrument, but is manufactured in such a way that it provides a _multi-action_ movement
+ *  [76-1390, Jackson Cross-Action Forceps](http://www.sklarcorp.com/jackson-cross-action-forceps-serrated-9.html)  is a grasping instrument, but is manufactured in a such a way that it provides a _cross-action_ movement
+
