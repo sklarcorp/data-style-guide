@@ -458,7 +458,11 @@ Field Specific Rules & Guidelines
 
 
 ### Width ###
-* Generally a measurement of specific instruments for which width is a differentiating characteristic (e.g. Traction Bows, Surgical Trays, Sterilization Trays, Baskets, Retractors)
+* Generally a measurement of specific instruments for which width is a differentiating characteristic (e.g. Traction Bows, Surgical Trays, Sterilization Trays, Baskets)
+ *  [40-1765, 40-1766 Bohler Traction Bows](http://www.sklarcorp.com/catalogsearch/result/?q=traction+bow&order=teir_level&dir=asc)
+ *  [10-1850, Sterilization Tray](http://www.sklarcorp.com/sterilization-trays.html)
+ *  [10-1560, 10-1731, 10-1733, 10-1734, Cleaning Baskets](http://www.sklarcorp.com/catalogsearch/result/?q=cleaning+basket&order=teir_level&dir=asc)
+
 
 
 ### Height / Depth ###
