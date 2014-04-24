@@ -203,7 +203,8 @@ Field Specific Rules & Guidelines
 * Instruments may have an "Extra Light" Pattern but not be a "Sklarlite™" product.
 * If the "Brand" is "Sklarlite™ XD" then the pattern is "Extra Light and Extra Delicate"
 * If an instrument has an "improved" version of the original instrument, indicate "Improved" here
-* "Narrow Jaws" is indicated here
+* "Narrow Jaws" on instruments are indicated here
+ *  [20-1265, Crile-Wood Needle Holder](http://www.sklarcorp.com/crile-wood-needle-holder.html) 
 
 
 ### Handle ###
