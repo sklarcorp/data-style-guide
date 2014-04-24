@@ -234,6 +234,8 @@ Field Specific Rules & Guidelines
   *  with Horizontal Grooves, as in [49-3360  Williger Raspatory](http://www.sklarcorp.com/williger-raspatory-6-1-4.html) or [11-1298  Commander Utility Shears](http://www.sklarcorp.com/commander-utility-shears.html)
   *  with Vertical Grooves, as in [40-9070 Kermisson Periosteal Raspatory](http://www.sklarcorp.com/catalogsearch/result/?q=40-9070&order=teir_level&dir=asc) or [40-7445 Chandler Elevator](http://www.sklarcorp.com/orthopedic/elevators/chandler-elevator-6461.html)
   *  with Finger Grips, as in [90-3452 Delee Retractor](http://www.sklarcorp.com/catalogsearch/result/?q=90-3452&order=teir_level&dir=asc)
+  *  Phenolic, as in [40-6040, Lexer Chisel](http://www.sklarcorp.com/lexer-chisel.html)
+    *  [Phenolic as it relates to surgical instruments](@Dropbox https://db.tt/H73BQNaM)
 
 ### Grade ###
 * Generally describes the grade of the instrument
