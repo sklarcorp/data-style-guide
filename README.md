@@ -128,6 +128,7 @@ Field Specific Rules & Guidelines
 * Fenestrated will be indicated here
 * Tungsten Carbide Needle Holders will always have either a Smooth or _Cross_-Serrated Working Surface Style
 * Tungsten Carbide Forceps will always have either a Smooth or _Cross_-Serrated Working Surface Style
+* Use "Atraumatic" rather than "Non-Traumatic" 
 * **DeBakey** and **Cooley** Style Teeth will be reflected in the `Working Surface` field rather than the `Tip End Style` where Teeth details are generally recorded.
   *  _DeBakey_ Style Teeth are available in 2 variations: 
     *  1x2 rows of atraumatic teeth, as in [52-4977, DeBakey Atraumatic Forceps](http://www.sklarcorp.com/7-3-4-debakey-atraumatic-forcep-1mm.html)
@@ -200,6 +201,7 @@ Field Specific Rules & Guidelines
 
 ### Pattern ###
 * Acceptable Values: Delicate, Extra Light, Extra Light _and_ Extra Delicate, Atraumatic, Heavy
+* Use "Atraumatic" rather than "Non-Traumatic"
 * If the "Brand" is "Sklarlite™" then the pattern is "Extra Light"
 * Instruments may have an "Extra Light" Pattern but not be a "Sklarlite™" product.
 * If the "Brand" is "Sklarlite™ XD" then the pattern is "Extra Light and Extra Delicate"
