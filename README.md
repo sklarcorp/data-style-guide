@@ -127,9 +127,12 @@ Field Specific Rules & Guidelines
 * May also be Cross-Serrated, Horizontally Serrated, Vertically Serrated, Partially Serrated
 * Fenestrated will be indicated here
 * Tungsten Carbide Needle Holders will always have either a Smooth or _Cross_-Serrated Working Surface Style
+ * [21-8000, Tungsten Carbide Halsey Needle Holder](http://www.sklarcorp.com/tc-halsey-needle-holder.html)(Smooth)
+ * [21-8257, Tungsten Carbide Jacobson Needle Holder](http://www.sklarcorp.com/catalogsearch/result/?q=tungsten+carbide+cross+serrated+needle+holder&order=teir_level&dir=asc)(Cross-Serrated)
 * Tungsten Carbide Forceps will always have either a Smooth or _Cross_-Serrated Working Surface Style
-* Use "Atraumatic" rather than "Non-Traumatic" 
+ * [93-1640, Tungsten Carbide Potts-Smith Forceps](http://www.sklarcorp.com/tc-potts-smith-forceps-9671.html)(Cross-Serrated)
 * **DeBakey** and **Cooley** Style Teeth will be reflected in the `Working Surface` field rather than the `Tip End Style` where Teeth details are generally recorded.
+* Use "Atraumatic" rather than "Non-Traumatic" 
   *  _DeBakey_ Style Teeth are available in 2 variations: 
     *  1x2 rows of atraumatic teeth, as in [52-4977, DeBakey Atraumatic Forceps](http://www.sklarcorp.com/7-3-4-debakey-atraumatic-forcep-1mm.html)
     *  2x3 rows of atraumatic teeth, as in [Scheibe DeBakey Organ Seizing Forceps]( http://www.dimeda.de/produkte/search/) 
