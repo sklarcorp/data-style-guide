@@ -219,10 +219,13 @@ Field Specific Rules & Guidelines
 
 
 ### Handle ###
-* Generally describes the type of handle for the instrument 
+* Generally describes the shape or type of handle for the instrument 
 * Most Commonly: Finger Ring, Thumb, Bayonet / Offset Thumb, Cross-Action Thumb, Plier, Dual Action Plier
 * May also indicate descriptors such as Round, Octagonal, Flat, Smooth, Knurled, with Serrations, with Grooves
-* Examples:
+* If there is a measurement identified with a specific handle, it will most often be an _overall instrument_ length or a tip measurement and will be reflected in the `Length` or `Diameter` field rather than the `Handle` field
+ * [90-6291, Novak Endometrial Curette](http://www.sklarcorp.com/novak-endometrial-curette-5400.html) (9 1/4" is the overall length, 3mm is the diameter of the tip end)
+* If a length is verified specifically to be a handle length, the numerical value should be reflected after the description of the type of handle
+* Types of Handles:
   *  Finger Ring, as in [47-1248  Iris Scissors](http://www.sklarcorp.com/iris-scissors-13806.html)
   *  Three Finger Ring, as in [80-1910  Rudd Clinic Hemorroid Ligator](http://www.sklarcorp.com/catalogsearch/result/?q=80-1910&order=teir_level&dir=asc)
   *  Finger Ring with Ratchet, as in [45-6266  Atlantic Grasper](http://www.sklarcorp.com/atlantic-grasper.html)
