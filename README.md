@@ -149,12 +149,19 @@ Field Specific Rules & Guidelines
 ### Tip End Style ###
 * Generally Sharp or Blunt
 * May be combined Sharp/Sharp, Sharp/Blunt, Blunt/Blunt
+ *  Sharp/Sharp, as in [13-1045, Operating Scissors](http://www.sklarcorp.com/operating-scissors.html)
+ *  Sharp/Blunt, as in [47-1068, Wagner Scissors](http://www.sklarcorp.com/wagner-scissors.html)
+ *  Blunt/Blunt, as in [15-1307, Doyen Scissors](http://www.sklarcorp.com/doyen-scissors.html)
+* No spaces before or after forward slashes (e.g. "Sharp/Sharp" not "Sharp / Sharp")
 * Teeth and/or Prong information will go in this field (e.g. "1x2 Teeth" or "1x2 Prongs")
  *  _EXCEPT_  DeBakey and Cooley Style Teeth, which are reflected in `Working Surface Style`
-* No spaces before or after forward slashes (e.g. "Sharp/Sharp" not "Sharp / Sharp")
+ *  Teeth have "w" shaped spacing, as in [22-8832, Wire Retaining Retractor](http://www.sklarcorp.com/wire-retaining-retractor.html) or [52-3970, Ferris-Smith Tissue Forceps](http://www.sklarcorp.com/7-ferris-smith-tissue-forceps-2x3-teeth.html)
+ *  Prongs have parallel spacing, as in [78-1002, Tracheal Retractor](http://www.sklarcorp.com/tracheal-retractor-9597.html) or [60-2033, Freeman Retractor](http://www.sklarcorp.com/freeman-retractor.html)
 * No spaces before or after "x" when indicating Teeth or Prongs (e.g. "1x2" not "1 x 2")
 * "x" should be lowercase (e.g. "1x2" not "1X2")
 * Adjectives such as Cupped, Spoon, Triangular etc. may be indicated here 
+ *  Cupped, as in [40-7284, Martini Bone Curette](http://www.sklarcorp.com/martini-bone-curette.html)
+ *  Spoon, as in [42-187, Akers Spoon](http://www.sklarcorp.com/akers-spoon.html)
 
 
 ### Tip Dimensions ###
