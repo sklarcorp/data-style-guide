@@ -79,6 +79,10 @@ Field Specific Rules & Guidelines
 
 ### Family Name ###
 * Generally the name of the doctor or surgeon who created the instrument
+* Some instruments have a family name based on an associated organization
+ *  [60-1085, US Army Retractor](http://www.sklarcorp.com/us-army-retractor.html)
+ *  [75-1120, University of Minnestota Cheek Retractor](http://www.sklarcorp.com/university-of-minnesota-cheek-retractor-4540.html)
+ *  [17-1955, Providence Hospital Forceps](http://www.sklarcorp.com/providence-hospital-forceps-curved-5-1-2.html)
 * If more than one name is associated with the instrument, names should be hyphenated with no spaces (e.g. Lichtwitz-Bier)
 * Instrument nicknames such as "Alligator" and "Mosquito" should go in the Family Name field, not Product
 * Nicknames (e.g. "Alligator") should follow the primary family name with a forward slash separating names with a space before and after the forward slash (e.g. Hartmann / Alligator; Packer / Mosquito)
