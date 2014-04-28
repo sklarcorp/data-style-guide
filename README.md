@@ -150,6 +150,7 @@ Field Specific Rules & Guidelines
 * Generally Sharp or Blunt
 * May be combined Sharp/Sharp, Sharp/Blunt, Blunt/Blunt
 * Teeth and/or Prong information will go in this field (e.g. "1x2 Teeth" or "1x2 Prongs")
+ *  _EXCEPT_  DeBakey and Cooley Style Teeth, which are reflected in `Working Surface Style`
 * No spaces before or after forward slashes (e.g. "Sharp/Sharp" not "Sharp / Sharp")
 * No spaces before or after "x" when indicating Teeth or Prongs (e.g. "1x2" not "1 x 2")
 * "x" should be lowercase (e.g. "1x2" not "1X2")
