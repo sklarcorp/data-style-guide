@@ -399,7 +399,7 @@ Field Specific Rules & Guidelines
 
 ### Color ###
 * Generally reflects the color of the instrument based on the material from which the instrument is made
-* When listing multiple colors, begin at the working end of the instrument and move away from there.  Color for [96-1228, Utility Shears](http://www.sklarcorp.com/utility-shears-sterile-lime-green.html) would be reflected as "Stainless Steel / Lime Green" or "Stainless Steel / Pink"
+* When listing multiple colors, begin at the working end of the instrument and move away from there.  Color for [96-1228, Utility Shears](http://www.sklarcorp.com/utility-shears-sterile-lime-green.html) would be reflected as "Gray / Lime Green" or "Gray / Pink"
 * There should be a space before and after the slashes as specified in the [General Rules & Guidelines Section](#general-rules--guidelines)
 *   Most Common Colors: 
 *   Stainless Steel = Gray
