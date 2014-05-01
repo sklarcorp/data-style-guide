@@ -318,6 +318,7 @@ Field Specific Rules & Guidelines
     - **SklarLite™**  _Sterilization Container System_
       - Material = Stainless Steel Container and Silicone Mats & Inserts
       - Color = Silver, Yellow, Red, Blue, Green, Black
+    - ~~**SklarTite™**  _Sterilization Container System_~~ _[Discontinued]_
     - **Sklar-Cide™**  _High Level Disinfecting and Sterilizing Solution_
       - Material = Glutaraldehyde
       - Color = Green when Activated, Clear when Unactivated
