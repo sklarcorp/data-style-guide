@@ -80,9 +80,9 @@ Field Specific Rules & Guidelines
 ### Family Name ###
 * Generally the name of the doctor or surgeon who created the instrument
 * Some instruments have a family name based on an associated organization
- *  [60-1085, US Army Retractor](http://www.sklarcorp.com/us-army-retractor.html)
- *  [75-1120, University of Minnestota Cheek Retractor](http://www.sklarcorp.com/university-of-minnesota-cheek-retractor-4540.html)
- *  [17-1955, Providence Hospital Forceps](http://www.sklarcorp.com/providence-hospital-forceps-curved-5-1-2.html)
+ *  [60-1085 US Army Retractor](http://www.sklarcorp.com/us-army-retractor.html)
+ *  [75-1120 University of Minnestota Cheek Retractor](http://www.sklarcorp.com/university-of-minnesota-cheek-retractor-4540.html)
+ *  [17-1955 Providence Hospital Forceps](http://www.sklarcorp.com/providence-hospital-forceps-curved-5-1-2.html)
 * If more than one name is associated with the instrument, names should be hyphenated with no spaces (e.g. Lichtwitz-Bier)
 * Instrument nicknames such as "Alligator" and "Mosquito" should go in the Family Name field, not Product
 * Nicknames (e.g. "Alligator") should follow the primary family name with a forward slash separating names with a space before and after the forward slash (e.g. Hartmann / Alligator; Packer / Mosquito)
@@ -138,10 +138,10 @@ Field Specific Rules & Guidelines
 * **DeBakey** and **Cooley** Style Teeth will be reflected in the `Working Surface` field rather than the `Tip End Style` where Teeth details are generally recorded.
 * Use "Atraumatic" rather than "Non-Traumatic" 
   *  _DeBakey_ Style Teeth are available in 2 variations: 
-    *  1x2 rows of atraumatic teeth, as in [52-4977, DeBakey Atraumatic Forceps](http://www.sklarcorp.com/7-3-4-debakey-atraumatic-forcep-1mm.html)
+    *  1x2 rows of atraumatic teeth, as in [52-4977 DeBakey Atraumatic Forceps](http://www.sklarcorp.com/7-3-4-debakey-atraumatic-forcep-1mm.html)
     *  2x3 rows of atraumatic teeth, as in [Scheibe DeBakey Organ Seizing Forceps]( http://www.dimeda.de/produkte/search/) 
   *  _Cooley_ Style Teeth are available in 2 variations:
-    *  2x2 rows of atraumatic teeth, as in [52-6696, Cooley Vascular Tissue Forceps](http://www.sklarcorp.com/9-1-2-cooley-vascular-tissue-forceps.html)
+    *  2x2 rows of atraumatic teeth, as in [52-6696 Cooley Vascular Tissue Forceps](http://www.sklarcorp.com/9-1-2-cooley-vascular-tissue-forceps.html)
     *  3x3 rows of atraumatic teeth
     *  The [Vascular Jaw Configuration](https://db.tt/0JNcoIxd) document and [DeBakey and Cooley Style Teeth]( https://db.tt/Yhrm9qw9) image also show examples 
 
@@ -149,19 +149,19 @@ Field Specific Rules & Guidelines
 ### Tip End Style ###
 * Generally Sharp or Blunt
 * May be combined Sharp/Sharp, Sharp/Blunt, Blunt/Blunt
- *  Sharp/Sharp, as in [13-1045, Operating Scissors](http://www.sklarcorp.com/operating-scissors.html)
- *  Sharp/Blunt, as in [47-1068, Wagner Scissors](http://www.sklarcorp.com/wagner-scissors.html)
- *  Blunt/Blunt, as in [15-1307, Doyen Scissors](http://www.sklarcorp.com/doyen-scissors.html)
+ *  Sharp/Sharp, as in [13-1045 Operating Scissors](http://www.sklarcorp.com/operating-scissors.html)
+ *  Sharp/Blunt, as in [47-1068 Wagner Scissors](http://www.sklarcorp.com/wagner-scissors.html)
+ *  Blunt/Blunt, as in [15-1307 Doyen Scissors](http://www.sklarcorp.com/doyen-scissors.html)
 * No spaces before or after forward slashes (e.g. "Sharp/Sharp" not "Sharp / Sharp")
 * Teeth and/or Prong information will go in this field (e.g. "1x2 Teeth" or "1x2 Prongs")
  *  _EXCEPT_  DeBakey and Cooley Style Teeth, which are reflected in `Working Surface Style`
- *  Teeth have "w" shaped spacing, as in [22-8832, Wire Retaining Retractor](http://www.sklarcorp.com/wire-retaining-retractor.html) or [52-3970, Ferris-Smith Tissue Forceps](http://www.sklarcorp.com/7-ferris-smith-tissue-forceps-2x3-teeth.html)
- *  Prongs have parallel spacing, as in [78-1002, Tracheal Retractor](http://www.sklarcorp.com/tracheal-retractor-9597.html) or [60-2033, Freeman Retractor](http://www.sklarcorp.com/freeman-retractor.html)
+ *  Teeth have "w" shaped spacing, as in [22-8832 Wire Retaining Retractor](http://www.sklarcorp.com/wire-retaining-retractor.html) or [52-3970 Ferris-Smith Tissue Forceps](http://www.sklarcorp.com/7-ferris-smith-tissue-forceps-2x3-teeth.html)
+ *  Prongs have parallel spacing, as in [78-1002 Tracheal Retractor](http://www.sklarcorp.com/tracheal-retractor-9597.html) or [60-2033 Freeman Retractor](http://www.sklarcorp.com/freeman-retractor.html)
 * No spaces before or after "x" when indicating Teeth or Prongs (e.g. "1x2" not "1 x 2")
 * "x" should be lowercase (e.g. "1x2" not "1X2")
 * Adjectives such as Cupped, Spoon, Triangular etc. may be indicated here 
- *  Cupped, as in [40-7284, Martini Bone Curette](http://www.sklarcorp.com/martini-bone-curette.html)
- *  Spoon, as in [42-187, Akers Spoon](http://www.sklarcorp.com/akers-spoon.html)
+ *  Cupped, as in [40-7284 Martini Bone Curette](http://www.sklarcorp.com/martini-bone-curette.html)
+ *  Spoon, as in [42-187 Akers Spoon](http://www.sklarcorp.com/akers-spoon.html)
 
 
 ### Tip Dimensions ###
@@ -197,20 +197,20 @@ Field Specific Rules & Guidelines
 
 ### Size / Model ###
 * Adjectives such as Small, Medium, Large, and Infant, Child, Adult may be indicated here
- * [90-3957, Cusco Vaginal Speculum](http://www.sklarcorp.com/cusco-vaginal-speculum-6046.html)
- * [70-1041, Halle Nasal Speculum](http://www.sklarcorp.com/halle-nasal-speculum-5049.html)
+ * [90-3957 Cusco Vaginal Speculum](http://www.sklarcorp.com/cusco-vaginal-speculum-6046.html)
+ * [70-1041 Halle Nasal Speculum](http://www.sklarcorp.com/halle-nasal-speculum-5049.html)
 * Sizes are sometimes reflected with the word "Size" and a whole number (e.g. Size 1, Size 2)
- * [93-1762-2, Regular Surgeon Needle](http://www.sklarcorp.com/regular-surgeon-needle-13257.html) 
+ * [93-1762-2 Regular Surgeon Needle](http://www.sklarcorp.com/regular-surgeon-needle-13257.html) 
 * Sizes are sometimes reflected with the "Pound" Symbol (#) and a whole number (e.g. #1, #2, #3)
- * [90-5284, Gelhorn Pessary](http://www.sklarcorp.com/gelhorn-pessary-5551.html) 
+ * [90-5284 Gelhorn Pessary](http://www.sklarcorp.com/gelhorn-pessary-5551.html) 
 * A Double-Ended instrument will have sizes reflected in this field separated by a slash (e.g. 21 / 22 or #9 / #10)
- * [90-4921, Hank Uterine Dilator](http://www.sklarcorp.com/catalogsearch/result/?q=90-4921&order=teir_level&dir=asc) 
- * [49-2985, Schluger Scaler](http://www.sklarcorp.com/schluger-scaler.html) 
+ * [90-4921 Hank Uterine Dilator](http://www.sklarcorp.com/catalogsearch/result/?q=90-4921&order=teir_level&dir=asc) 
+ * [49-2985 Schluger Scaler](http://www.sklarcorp.com/schluger-scaler.html) 
 * There should be a space before and after the slashes as specified in the [General Rules & Guidelines](#general-rules--guidelines)
 * French measurements are reflected here
 * French measurements are reflected by a whole number followed by the word "French" spelled out with a capital "F"
 * For French measurements there should be a space between the number and the word "French"
- * [50-2008, Frazier Suction Tube](http://www.sklarcorp.com/frazier-suction-tube-13770.html)
+ * [50-2008 Frazier Suction Tube](http://www.sklarcorp.com/frazier-suction-tube-13770.html)
 * *NOTE* 1 French = 1/3 (0.33) millimeter
 
 
@@ -222,7 +222,7 @@ Field Specific Rules & Guidelines
 * If the "Brand" is "Sklarlite™ XD" then the pattern is "Extra Light and Extra Delicate"
 * If an instrument has an "improved" version of the original instrument, indicate "Improved" here
 * "Narrow Jaws" on instruments are indicated here
- *  [20-1265, Crile-Wood Needle Holder](http://www.sklarcorp.com/crile-wood-needle-holder.html) 
+ *  [20-1265 Crile-Wood Needle Holder](http://www.sklarcorp.com/crile-wood-needle-holder.html) 
 
 
 ### Handle ###
@@ -230,7 +230,7 @@ Field Specific Rules & Guidelines
 * Most Commonly: Finger Ring, Thumb, Bayonet / Offset Thumb, Cross-Action Thumb, Plier, Dual Action Plier
 * May also indicate descriptors such as Round, Octagonal, Flat, Smooth, Knurled, with Serrations, with Grooves
 * If there is a measurement identified with a specific handle, it will most often be an _overall instrument_ length or a tip measurement and will be reflected in the `Length` or `Diameter` field rather than the `Handle` field
- * [90-6291, Novak Endometrial Curette](http://www.sklarcorp.com/novak-endometrial-curette-5400.html) (9 1/4" is the overall length, 3mm is the diameter of the tip end)
+ * [90-6291 Novak Endometrial Curette](http://www.sklarcorp.com/novak-endometrial-curette-5400.html) (9 1/4" is the overall length, 3mm is the diameter of the tip end)
 * If a length is verified specifically to be a handle length, the numerical value should be reflected after the description of the type of handle
 * Types of Handles:
   *  Finger Ring, as in [47-1248  Iris Scissors](http://www.sklarcorp.com/iris-scissors-13806.html)
@@ -243,7 +243,7 @@ Field Specific Rules & Guidelines
   *  Plier, as in [40-1775  Needle Nose Pliers](http://www.sklarcorp.com/needle-nose-pliers.html)
   *  Plier with Spring, as in [93-492 Roux Syringe](http://www.sklarcorp.com/catalogsearch/result/?q=93-492&order=teir_level&dir=asc)
   *  Plier with Double Spring and Lock, as in [97-0474  Nail Nipper](http://www.sklarcorp.com/nail-nipper.html)
-  *  Plier with Ratchet, as in [40-2413  Lane Bone Holding Forceps](http://www.sklarcorp.com/catalogsearch/result/?q=40-2413&order=teir_level&dir=asc)
+  *  Plier with Ratchet, as in [40-2413 Lane Bone Holding Forceps](http://www.sklarcorp.com/catalogsearch/result/?q=40-2413&order=teir_level&dir=asc)
   *  Plier with One Hook, as in [48-752 Extracting Forceps #18L Left](http://www.sklarcorp.com/extracting-forceps-18l-left.html) 
   *  Loop, as in [10-1356 Cannula Cleaning Brush](http://www.sklarcorp.com/cannula-instrument-cleaning-brush-1419.html)
   *  Loop with Grip, as in [62-8000  Aspirating Syringe](http://www.sklarcorp.com/catalogsearch/result/?q=62-8000&order=teir_level&dir=asc)
@@ -255,7 +255,7 @@ Field Specific Rules & Guidelines
   *  with Horizontal Grooves, as in [49-3360  Williger Raspatory](http://www.sklarcorp.com/williger-raspatory-6-1-4.html) or [11-1298  Commander Utility Shears](http://www.sklarcorp.com/commander-utility-shears.html)
   *  with Vertical Grooves, as in [40-9070 Kermisson Periosteal Raspatory](http://www.sklarcorp.com/catalogsearch/result/?q=40-9070&order=teir_level&dir=asc) or [40-7445 Chandler Elevator](http://www.sklarcorp.com/orthopedic/elevators/chandler-elevator-6461.html)
   *  with Finger Grips, as in [90-3452 Delee Retractor](http://www.sklarcorp.com/catalogsearch/result/?q=90-3452&order=teir_level&dir=asc)
-  *  Phenolic, as in [40-6040, Lexer Chisel](http://www.sklarcorp.com/lexer-chisel.html)
+  *  Phenolic, as in [40-6040 Lexer Chisel](http://www.sklarcorp.com/lexer-chisel.html)
 
 
 ### Grade ###
@@ -289,14 +289,14 @@ Field Specific Rules & Guidelines
       - _Dual Blue Tips_, as in [91-5450 Sklar Blue™ Schroeder Tenaculum](http://www.sklarcorp.com/sklar-blue-schroeder-tenaculum.html)
       - _Blue Blades_, as in [91-5047 Sklar Blue™ Pederson Vaginal Speculum](http://www.sklarcorp.com/sklar-blue-pederson-vaginal-speculum-3456.html)
       - **NOTE**  The appearance of blue coloring on an instrument does not always indicate it is a Sklar Blue™ product
-      - [96-9679, Coated Electrode Needle](http://www.sklarcorp.com/coated-electrode-needle-2831.html) is NOT a Sklar Blue™ product
-      - [96-9605, Electrosurgical Pencil](http://www.sklarcorp.com/electrosurgical-pencil-disposable-4596.html) is NOT a Sklar Blue ™ product
+      - [96-9679 Coated Electrode Needle](http://www.sklarcorp.com/coated-electrode-needle-2831.html) is NOT a Sklar Blue™ product
+      - [96-9605 Electrosurgical Pencil](http://www.sklarcorp.com/electrosurgical-pencil-disposable-4596.html) is NOT a Sklar Blue ™ product
     - **Sklar Black™ Laser** _Reduced Reflectivity_
       - _Dual Gold Finger Rings_, as in [90-2330 Sklar Black™ Laser Heaney Needle Holder](http://www.sklarcorp.com/sklar-black-laser-heaney-needle-holder.html)
     - **Sklarhone™** _Knifelike Razor Edge_
       - _Dual Black Finger Rings_, as in [15-3315 Sklarhone™ Metzenbaum Scissors]( http://www.sklarcorp.com/sklarhone-metzenbaum-scissors-7942.html)
     - **Sklarcut™** _Micro-Serrated_
-      - _Single Gold Finger Ring_, as in [15-3590  Sklarcut™ Iris Scissors](http://www.sklarcorp.com/sklarcut-iris-scissors-7693.html)
+      - _Single Gold Finger Ring_, as in [15-3590 Sklarcut™ Iris Scissors](http://www.sklarcorp.com/sklarcut-iris-scissors-7693.html)
     - **Supercut Sklarhone™** _1 Knifelike Razor Edge and 1 Micro-serrated Edge_
       - _Dual Black Finger Rings_, as in [15-7032 Sklarhone™ Jameson Scissors Supercut](http://www.sklarcorp.com/sklarhone-jameson-scissors.html)
     - **Sklar Edge™** _TC Scissors_
@@ -306,7 +306,7 @@ Field Specific Rules & Guidelines
     - **SklarSafe™** _Safety Scalpels_
     - **SklarSpec™** _Disposable Vaginal Specula_
       - Clear Plastic, Sold in bulk quantities
-      - as in [96-0847, Disposable Graves Vaginal Specula](http://www.sklarcorp.com/catalogsearch/result/?q=96-0847&order=teir_level&dir=asc)
+      - as in [96-0847 Disposable Graves Vaginal Specula](http://www.sklarcorp.com/catalogsearch/result/?q=96-0847&order=teir_level&dir=asc)
     - **Sklar Tru-Punch™** _Single-Use Biopsy Punch_
     - **SklarTip™** _Latex-Free Instrument Protectors_
       -  Autoclavable, Steam and Gas Permeable, Multiple Colors, Shapes, and Sizes, Vented or Non-Vented
@@ -316,7 +316,7 @@ Field Specific Rules & Guidelines
       - as in, [66-4034 Sklar LiteGrip™ Bishop-Harmon Forceps](http://www.sklarcorp.com/sklar-litegrip-fenestrated-handle-bishop-harmon-forceps.html)
     - **Sklartech 5000™** _Laparoscopic_
       - _Sklartech 5000 HX™_ - Disposable Insert, as in [31-7007 Sklartech 5000 HX™ Metzenbaum Scissor](http://www.sklarcorp.com/sklartech-5000-hx-metzenbaum-scissor-straight-for-use-w-31-7001xc-or-31-7002yc-reusable-handles-sterile-33cm-5mm-pack-of-10.html)
-      - _Sklartech 5000 X™_ - 100% Disposable Instrument, as in [31-7012XC, Sklartech 5000 X™ Metzenbaum Scissors 100% Disposable](http://www.sklarcorp.com/catalogsearch/result/?q=31-7012xc&order=teir_level&dir=asc)
+      - _Sklartech 5000 X™_ - 100% Disposable Instrument, as in [31-7012XC Sklartech 5000 X™ Metzenbaum Scissors 100% Disposable](http://www.sklarcorp.com/catalogsearch/result/?q=31-7012xc&order=teir_level&dir=asc)
   
  * **CARE AND CLEANING**
     - **SklarLite™**  _Sterilization Container System_
@@ -399,12 +399,12 @@ Field Specific Rules & Guidelines
 
  * "Discrete" materials or ingredients are separated by a forward slash ("/") meaning you CAN see where one ends and the next begins. (e.g. A pair of scissors has Tungsten Carbide Inserts. You can see the line where the TC Insert ends and the Stainless Steel jaw begins. There are considered "Discrete" and would be listed using a forward slash as Tungsten Carbide / Stainless Steel.)
 
-   * When listing multiple "Discrete" materials, begin at the working end of the instrument and move away from there.  Materials for [96-1228, Utility Shears](http://www.sklarcorp.com/utility-shears-sterile-lime-green.html) would be reflected as "Stainless Steel / Polypropylene"
+   * When listing multiple "Discrete" materials, begin at the working end of the instrument and move away from there.  Materials for [96-1228 Utility Shears](http://www.sklarcorp.com/utility-shears-sterile-lime-green.html) would be reflected as "Stainless Steel / Polypropylene"
 
 
 ### Color ###
 * Generally reflects the color of the instrument based on the material from which the instrument is made
-* When listing multiple colors, begin at the working end of the instrument and move away from there.  Color for [96-1228, Utility Shears](http://www.sklarcorp.com/utility-shears-sterile-lime-green.html) would be reflected as "Gray / Lime Green" or "Gray / Pink"
+* When listing multiple colors, begin at the working end of the instrument and move away from there.  Color for [96-1228 Utility Shears](http://www.sklarcorp.com/utility-shears-sterile-lime-green.html) would be reflected as "Gray / Lime Green" or "Gray / Pink"
 * There should be a space before and after the slashes as specified in the [General Rules & Guidelines Section](#general-rules--guidelines)
 *   Most Common Colors: 
 *   Stainless Steel = Gray
@@ -418,17 +418,17 @@ Field Specific Rules & Guidelines
 *   Sklar Black™ coating = Black
 *   Sklar Blue™ coating = Blue
 *   Plastic = Various
-    *   [96-2950, Plastic Surgical Prep Razor](http://www.sklarcorp.com/plastic-surgical-prep-razor-non-sterile-case-of-100.html)
-    *   [96-2916, Plastic Dressing Forceps](http://www.sklarcorp.com/5-plastic-dressing-forceps-non-sterile-box-of-100.html) 
-    *   [10-3062, Plastic Instrument Soaking Tray](http://www.sklarcorp.com/instrument-soaking-tray-13602.html)
+    *   [96-2950 Plastic Surgical Prep Razor](http://www.sklarcorp.com/plastic-surgical-prep-razor-non-sterile-case-of-100.html)
+    *   [96-2916 Plastic Dressing Forceps](http://www.sklarcorp.com/5-plastic-dressing-forceps-non-sterile-box-of-100.html) 
+    *   [10-3062 Plastic Instrument Soaking Tray](http://www.sklarcorp.com/instrument-soaking-tray-13602.html)
 *   Polypropylene = Various
-    *   [96-1228, Utility Shears](http://www.sklarcorp.com/utility-shears-sterile-lime-green.html)
+    *   [96-1228 Utility Shears](http://www.sklarcorp.com/utility-shears-sterile-lime-green.html)
      *  **NOTE** Polypropylene is a Plastic, but not all Plastic is Polypropylene
      *  [The Seven Most Common Plastics](http://www.reuseit.com/product-materials/the-7-most-common-plastics-and-how-they-are-typically-used.htm)
      
 *   Silicone = Various
     *   [68-8002 through 68-8005 Aspirating Syringes](http://www.sklarcorp.com/catalogsearch/result/?q=aspriating+syringe&order=teir_level&dir=asc)
-    *   [10-6543, Silicone Instrument Holder](http://www.sklarcorp.com/silicone-instrument-holder-for-cassettes-with-hinged-lid-3-3-20.html)
+    *   [10-6543 Silicone Instrument Holder](http://www.sklarcorp.com/silicone-instrument-holder-for-cassettes-with-hinged-lid-3-3-20.html)
  
 
 
@@ -489,8 +489,8 @@ Field Specific Rules & Guidelines
 ### Width ###
 * Generally a measurement of specific instruments for which width is a differentiating characteristic (e.g. Traction Bows, Surgical Trays, Sterilization Trays, Baskets)
  *  [40-1765, 40-1766 Bohler Traction Bows](http://www.sklarcorp.com/catalogsearch/result/?q=traction+bow&order=teir_level&dir=asc)
- *  [10-1850, Sterilization Tray](http://www.sklarcorp.com/sterilization-trays.html)
- *  [10-1560, 10-1731, 10-1733, 10-1734, Cleaning Baskets](http://www.sklarcorp.com/catalogsearch/result/?q=cleaning+basket&order=teir_level&dir=asc)
+ *  [10-1850 Sterilization Tray](http://www.sklarcorp.com/sterilization-trays.html)
+ *  [10-1560, 10-1731, 10-1733, 10-1734 Cleaning Baskets](http://www.sklarcorp.com/catalogsearch/result/?q=cleaning+basket&order=teir_level&dir=asc)
 
 
 
