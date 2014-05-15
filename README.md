@@ -308,6 +308,10 @@ Field Specific Rules & Guidelines
       - Clear Plastic, Sold in bulk quantities
       - as in [96-0847, Disposable Graves Vaginal Specula](http://www.sklarcorp.com/catalogsearch/result/?q=96-0847&order=teir_level&dir=asc)
     - **Sklar Tru-Punch™** _Single-Use Biopsy Punch_
+    - **SklarTip™** _Latex-Free Instrument Protectors_
+      -  Autoclavable, Steam and Gas Permeable, Multiple Colors, Shapes, and Sizes, Vented or Non-Vented
+      -  as in [96-1418 Vented Instrument Protectors](http://www.sklarcorp.com/sklartip-vented-instrument-protectors.html)
+      -  as in [96-1518 Non-Vented Instrument Protectors](http://www.sklarcorp.com/sklartip-non-vented-instrument-protectors.html)
     - **Sklar LiteGrip™** _Fenestrated Handles_
       - as in, [66-4034 Sklar LiteGrip™ Bishop-Harmon Forceps](http://www.sklarcorp.com/sklar-litegrip-fenestrated-handle-bishop-harmon-forceps.html)
     - **Sklartech 5000™** _Laparoscopic_
