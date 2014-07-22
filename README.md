@@ -57,8 +57,8 @@ General Rules & Guidelines
   *  (e.g. Family Name: Hartmann / Alligator)
 *  DO NOT put a space before a slash when describing a `Tip End Style` or completing any `Tip End` field
   *  (e.g. Sharp/Sharp; Sharp/Blunt; Blunt/Blunt)
-*  Measurements requiring fractions should have a space between the whole number and the fraction 
-  (e.g. 6 1/2" not 61/2")
+*  Measurements requiring fractions should have a hyphen between the whole number and the fraction 
+  (e.g. 6-1/2" not 61/2" nor 6 1/2")
 *  Do not put a space between the numbers creating a fraction (e.g. 1/2" not 1 / 2")
 
 
@@ -104,8 +104,8 @@ Field Specific Rules & Guidelines
   * Inches = (") as in [06-2860 Steel Ruler](http://www.sklarcorp.com/6-steel-ruler.html)
   * Millimeters = (mm) as in [91-6100 Bipolar Adson Forceps](http://www.sklarcorp.com/bipolar-adson-forceps.html)
   * Centimeters = (cm) as in [40-3252 Sheehan Gouge](http://www.sklarcorp.com/sheehan-gouge-16cm.html)
-* Measurements requiring fractions should have a space between the whole number and the fraction 
-  (e.g. 6 1/2" not 61/2")
+* Measurements requiring fractions should have a hyphen between the whole number and the fraction 
+  (e.g. 6-1/2" not 61/2" nor 6 1/2")
 * No ending zero after whole numbers (e.g. 6" not 6.0")
 
 
@@ -230,7 +230,7 @@ Field Specific Rules & Guidelines
 * Most Commonly: Finger Ring, Thumb, Bayonet / Offset Thumb, Cross-Action Thumb, Plier, Dual Action Plier
 * May also indicate descriptors such as Round, Octagonal, Flat, Smooth, Knurled, with Serrations, with Grooves
 * If there is a measurement identified with a specific handle, it will most often be an _overall instrument_ length or a tip measurement and will be reflected in the `Length` or `Diameter` field rather than the `Handle` field
- * [90-6291 Novak Endometrial Curette](http://www.sklarcorp.com/novak-endometrial-curette-5400.html) (9 1/4" is the overall length, 3mm is the diameter of the tip end)
+ * [90-6291 Novak Endometrial Curette](http://www.sklarcorp.com/novak-endometrial-curette-5400.html) (9-1/4" is the overall length, 3mm is the diameter of the tip end)
 * If a length is verified specifically to be a handle length, the numerical value should be reflected after the description of the type of handle
 * Types of Handles:
   *  Finger Ring, as in [47-1248  Iris Scissors](http://www.sklarcorp.com/iris-scissors-13806.html)
