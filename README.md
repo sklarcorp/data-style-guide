@@ -292,7 +292,7 @@ Field Specific Rules & Guidelines
       - [96-9679 Coated Electrode Needle](http://www.sklarcorp.com/coated-electrode-needle-2831.html) is NOT a Sklar Blue™ product
       - [96-9605 Electrosurgical Pencil](http://www.sklarcorp.com/electrosurgical-pencil-disposable-4596.html) is NOT a Sklar Blue ™ product
     - **Sklar Black™ Laser** _Reduced Reflectivity_
-      - _Dual Gold Finger Rings_, as in [90-2330 Sklar Black™ Laser Heaney Needle Holder](http://www.sklarcorp.com/sklar-black-laser-heaney-needle-holder.html)
+      - _Dual Black Finger Rings_, as in [90-2292 Sklar Black™ Laser Rochester-Pean Needle Holder](http://www.sklarcorp.com/sklar-black-rochester-pean-forceps.html)
     - **Sklarhone™** _Knifelike Razor Edge_
       - _Dual Black Finger Rings_, as in [15-3315 Sklarhone™ Metzenbaum Scissors]( http://www.sklarcorp.com/sklarhone-metzenbaum-scissors-7942.html)
     - **Sklarcut™** _Micro-Serrated_
