@@ -58,7 +58,7 @@ General Rules & Guidelines
 *  DO NOT put a space before a slash when describing a `Tip End Style` or completing any `Tip End` field
   *  (e.g. Sharp/Sharp; Sharp/Blunt; Blunt/Blunt)
 *  Measurements requiring fractions should have a hyphen between the whole number and the fraction 
-  (e.g. 6-1/2" not 61/2" nor 6 1/2")
+  *  (e.g. 6-1/2" not 61/2" nor 6 1/2")
 *  Do not put a space between the numbers creating a fraction (e.g. 1/2" not 1 / 2")
 
 
@@ -71,6 +71,14 @@ General Rules & Guidelines
 * "Millimeters" should be reflected as a lowercase abbreviation (e.g. "mm")
 * "Centimeters should be reflected as a lowercase abbreviation (e.g. "cm")
 
+### Documenting Multi-Dimensional Measurements ###
+* A unit of measure should always follow each number when identifying multiple dimensions of instruments
+  * See **Spelling Out Words and Use of Symbols or Abbreviations** for accepted unit of measurement abbreviations 
+  * (e.g. 6-1/2" x 2" Retractor Blade)
+  * (e.g. 4mm x 5mm Bite)
+* "x" should be lowercase (e.g. "4mm x 5mm Bite" not "4mm X 5mm Bite")
+* While no spaces are placed before or after "x" when indicating teeth or prongs (e.g."2x3 rows of atraumatic teeth", spaces _**should**_ be used before and after the "x" when indicating multiple dimensions of an instrument that includes a unit of measurement (e.g. "4mm X 5mm Bite" not "4mmx5mm Bite")
+ 
 
 
 
@@ -141,7 +149,7 @@ Field Specific Rules & Guidelines
     *  1x2 rows of atraumatic teeth, as in [52-4977 DeBakey Atraumatic Forceps](http://www.sklarcorp.com/7-3-4-debakey-atraumatic-forcep-1mm.html)
     *  2x3 rows of atraumatic teeth, as in [Scheibe DeBakey Organ Seizing Forceps]( http://www.dimeda.de/produkte/search/) 
   *  _Cooley_ Style Teeth are available in 2 variations:
-    *  2x2 rows of atraumatic teeth, as in [52-6696 Cooley Vascular Tissue Forceps](http://www.sklarcorp.com/9-1-2-cooley-vascular-tissue-forceps.html)
+    *  4mmx5mm Bite, as in [52-6696 Cooley Vascular Tissue Forceps](http://www.sklarcorp.com/9-1-2-cooley-vascular-tissue-forceps.html)
     *  3x3 rows of atraumatic teeth
     *  The [Vascular Jaw Configuration](https://db.tt/0JNcoIxd) document and [DeBakey and Cooley Style Teeth]( https://db.tt/Yhrm9qw9) image also show examples 
 
